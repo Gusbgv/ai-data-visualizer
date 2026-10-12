@@ -1,0 +1,1252 @@
+Age,Age group,Country,Family history,Sought treatment,Work interference,Company size,Remote work,Tech company,Employer benefits,Would tell supervisor,Fears career impact
+37,35-44,United States,No,Yes,Often,6-25,No,Yes,Yes,Yes,No
+44,35-44,United States,No,No,Rarely,More than 1000,No,No,Don't know,No,Maybe
+32,30-34,Canada,No,No,Rarely,6-25,No,Yes,No,Yes,No
+31,30-34,United Kingdom,Yes,Yes,Often,26-100,No,Yes,No,No,Yes
+31,30-34,United States,No,No,Never,100-500,Yes,Yes,Yes,Yes,No
+33,30-34,United States,Yes,No,Sometimes,6-25,No,Yes,Yes,Yes,No
+35,35-44,United States,Yes,Yes,Sometimes,1-5,Yes,Yes,No,No,Maybe
+39,35-44,Canada,No,No,Never,1-5,Yes,Yes,No,No,No
+42,35-44,United States,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,Maybe
+23,18-24,Canada,No,No,Never,26-100,No,Yes,Don't know,Yes,No
+31,30-34,United States,No,Yes,Sometimes,6-25,Yes,Yes,Don't know,Yes,No
+29,25-29,Bulgaria,No,No,Never,100-500,Yes,Yes,Don't know,Yes,No
+42,35-44,United States,Yes,Yes,Sometimes,26-100,No,No,Yes,Yes,Yes
+36,35-44,United States,Yes,No,Never,500-1000,No,Yes,Don't know,Yes,No
+27,25-29,Canada,No,No,Never,6-25,No,Yes,Don't know,Some of them,No
+29,25-29,United States,Yes,Yes,Rarely,26-100,No,Yes,Yes,Some of them,No
+23,18-24,United Kingdom,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,No,Maybe
+32,30-34,United States,No,Yes,Sometimes,6-25,No,Yes,Yes,Yes,Maybe
+46,45+,United States,Yes,No,Sometimes,1-5,Yes,Yes,Yes,Yes,No
+36,35-44,France,Yes,No,No condition,6-25,Yes,Yes,No,Some of them,No
+29,25-29,United States,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Some of them,Maybe
+31,30-34,United States,No,No,Never,1-5,Yes,Yes,No,Some of them,No
+46,45+,United States,No,Yes,Often,26-100,Yes,Yes,Yes,Yes,Maybe
+41,35-44,United States,No,Yes,Never,More than 1000,No,No,Don't know,No,Maybe
+33,30-34,United States,Yes,Yes,Rarely,26-100,No,Yes,Yes,Yes,No
+35,35-44,United States,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Yes
+33,30-34,United States,No,No,No condition,1-5,No,Yes,Don't know,No,Maybe
+35,35-44,United States,Yes,Yes,Rarely,6-25,Yes,Yes,Yes,Yes,No
+34,30-34,United States,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,No,No
+37,35-44,United Kingdom,No,No,Sometimes,6-25,No,Yes,No,No,Yes
+32,30-34,United Kingdom,No,No,Never,6-25,Yes,Yes,No,Some of them,Yes
+31,30-34,United States,Yes,No,Rarely,1-5,Yes,Yes,No,No,Yes
+30,30-34,United Kingdom,Yes,Yes,Sometimes,500-1000,Yes,Yes,Don't know,Yes,Maybe
+42,35-44,United States,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Some of them,Maybe
+40,35-44,United States,No,Yes,Sometimes,1-5,No,Yes,Yes,No,Maybe
+27,25-29,United States,No,Yes,Rarely,6-25,No,Yes,No,Yes,No
+29,25-29,Canada,No,No,Rarely,1-5,No,Yes,No,No,Yes
+38,35-44,Portugal,No,No,No condition,100-500,No,Yes,No,Some of them,Maybe
+50,45+,United States,No,No,No condition,100-500,No,Yes,Yes,Yes,No
+35,35-44,United States,No,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes,No
+24,18-24,United Kingdom,No,Yes,Sometimes,6-25,No,Yes,No,No,Maybe
+35,35-44,United States,No,No,No condition,More than 1000,Yes,Yes,Yes,No,Yes
+27,25-29,Canada,Yes,Yes,Sometimes,1-5,No,Yes,No,No,Maybe
+18,18-24,Netherlands,No,No,Often,6-25,No,Yes,No,Some of them,Yes
+30,30-34,United States,No,Yes,Sometimes,26-100,No,Yes,Don't know,No,No
+38,35-44,United States,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No
+28,25-29,United Kingdom,No,No,No condition,26-100,No,Yes,Don't know,Yes,No
+34,30-34,United States,No,No,No condition,6-25,No,Yes,No,Yes,No
+26,25-29,Canada,No,No,Sometimes,1-5,No,Yes,No,Yes,No
+30,30-34,United States,Yes,Yes,Rarely,26-100,No,Yes,Yes,Yes,Maybe
+22,18-24,United States,Yes,Yes,Often,6-25,No,Yes,No,No,Maybe
+33,30-34,United States,No,No,No condition,100-500,Yes,Yes,Don't know,Yes,No
+31,30-34,United States,No,No,No condition,100-500,Yes,Yes,Don't know,Some of them,Maybe
+32,30-34,United States,No,No,Never,1-5,Yes,Yes,Don't know,Yes,Maybe
+28,25-29,Switzerland,No,No,No condition,100-500,No,Yes,No,No,No
+27,25-29,United States,Yes,Yes,Rarely,26-100,No,Yes,Yes,No,Maybe
+32,30-34,United States,Yes,No,No condition,6-25,Yes,Yes,Don't know,Yes,No
+24,18-24,United States,Yes,Yes,Sometimes,26-100,Yes,Yes,Don't know,Yes,No
+26,25-29,United States,No,No,No condition,26-100,No,No,No,Yes,No
+33,30-34,Canada,Yes,Yes,Often,6-25,Yes,Yes,Don't know,No,Yes
+44,35-44,United States,Yes,Yes,Sometimes,More than 1000,No,No,Yes,No,Yes
+26,25-29,Poland,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,Yes,No
+27,25-29,United Kingdom,No,No,Never,100-500,No,Yes,Yes,Yes,No
+26,25-29,France,No,No,No condition,26-100,No,Yes,No,No,Yes
+35,35-44,Canada,No,No,Sometimes,6-25,No,Yes,Don't know,Yes,No
+40,35-44,United States,Yes,No,Sometimes,More than 1000,Yes,Yes,Yes,No,Yes
+23,18-24,Australia,Yes,Yes,Often,1-5,Yes,Yes,No,Yes,No
+36,35-44,United States,No,No,Sometimes,100-500,Yes,Yes,Yes,Some of them,Maybe
+31,30-34,United States,No,No,No condition,26-100,Yes,No,Don't know,No,Maybe
+34,30-34,United States,No,No,Rarely,1-5,Yes,Yes,No,No,Maybe
+28,25-29,France,No,No,Never,26-100,No,Yes,No,Some of them,Maybe
+34,30-34,Canada,No,No,Never,6-25,No,Yes,Don't know,Yes,No
+23,18-24,United States,No,No,Rarely,More than 1000,No,Yes,Yes,Yes,Maybe
+38,35-44,United Kingdom,No,No,No condition,26-100,No,Yes,No,Yes,No
+33,30-34,United States,No,No,Never,More than 1000,No,Yes,Don't know,Some of them,Maybe
+19,18-24,United Kingdom,No,No,No condition,1-5,No,Yes,No,No,Yes
+25,25-29,United States,No,No,No condition,More than 1000,Yes,Yes,Yes,Yes,No
+31,30-34,United States,Yes,No,Sometimes,1-5,Yes,Yes,No,Yes,No
+32,30-34,United States,Yes,Yes,Sometimes,26-100,Yes,Yes,No,No,Yes
+28,25-29,Germany,No,No,Never,6-25,Yes,Yes,Don't know,Some of them,No
+38,35-44,United States,Yes,No,Sometimes,100-500,Yes,Yes,Yes,Some of them,No
+23,18-24,United Kingdom,No,No,Never,26-100,No,Yes,Yes,Yes,No
+30,30-34,Canada,No,No,Never,26-100,No,No,No,Yes,No
+27,25-29,United States,No,Yes,Often,1-5,Yes,Yes,Yes,Yes,Maybe
+33,30-34,United States,Yes,No,Never,More than 1000,No,Yes,No,No,Yes
+31,30-34,United States,No,No,No condition,26-100,No,Yes,Don't know,Yes,No
+39,35-44,United Kingdom,No,Yes,Often,6-25,No,Yes,No,No,Maybe
+34,30-34,United States,Yes,Yes,Rarely,500-1000,Yes,Yes,Yes,Some of them,Yes
+29,25-29,United States,No,Yes,Sometimes,26-100,No,Yes,Yes,Some of them,Maybe
+32,30-34,United States,No,No,No condition,500-1000,No,Yes,Don't know,Some of them,No
+31,30-34,United States,No,No,Never,500-1000,No,Yes,Yes,Yes,No
+40,35-44,United States,No,Yes,Sometimes,26-100,No,Yes,No,Yes,No
+34,30-34,United States,No,No,No condition,26-100,No,Yes,Don't know,No,Maybe
+18,18-24,Russia,No,No,No condition,26-100,Yes,Yes,Yes,Yes,No
+25,25-29,Canada,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Maybe
+29,25-29,United States,No,No,Never,26-100,No,Yes,Don't know,Yes,No
+24,18-24,United States,Yes,No,Rarely,26-100,No,Yes,Don't know,No,Maybe
+31,30-34,Mexico,Yes,Yes,Sometimes,6-25,No,Yes,Don't know,Yes,No
+33,30-34,United States,No,Yes,Sometimes,6-25,No,Yes,No,No,Maybe
+30,30-34,United States,No,Yes,Often,1-5,No,Yes,No,Yes,No
+26,25-29,Canada,Yes,Yes,Sometimes,26-100,No,No,No,No,Yes
+44,35-44,United States,No,No,Never,100-500,No,Yes,Yes,Some of them,Maybe
+25,25-29,United States,Yes,No,No condition,26-100,No,Yes,Don't know,Yes,No
+33,30-34,United States,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,No
+29,25-29,United States,No,No,Never,More than 1000,No,Yes,Yes,Yes,No
+35,35-44,United States,Yes,No,Rarely,6-25,No,Yes,Yes,Yes,No
+35,35-44,United States,Yes,Yes,Sometimes,26-100,Yes,Yes,Don't know,Yes,No
+28,25-29,Brazil,Yes,Yes,Rarely,6-25,No,Yes,No,Yes,Maybe
+34,30-34,United States,Yes,No,Never,6-25,Yes,Yes,Yes,No,Maybe
+32,30-34,United States,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Maybe
+22,18-24,United States,No,Yes,Sometimes,500-1000,No,Yes,Yes,No,Yes
+28,25-29,United States,No,Yes,Sometimes,26-100,No,Yes,Yes,Some of them,No
+45,45+,United States,Yes,Yes,Rarely,6-25,Yes,Yes,Yes,Yes,No
+32,30-34,United States,No,No,Never,100-500,No,Yes,Yes,Some of them,Maybe
+28,25-29,United States,No,No,No condition,More than 1000,No,Yes,Don't know,No,Maybe
+26,25-29,United Kingdom,No,No,Never,6-25,No,Yes,Don't know,Some of them,No
+21,18-24,United Kingdom,No,No,Often,1-5,Yes,No,No,Yes,Yes
+27,25-29,Canada,No,No,Rarely,6-25,No,No,Yes,Yes,Maybe
+18,18-24,United States,No,Yes,Rarely,1-5,Yes,Yes,No,No,No
+35,35-44,United States,No,No,No condition,26-100,Yes,Yes,Don't know,Yes,No
+29,25-29,United States,No,No,Never,More than 1000,No,Yes,Yes,No,Yes
+25,25-29,United States,No,No,No condition,26-100,Yes,Yes,Don't know,Yes,No
+33,30-34,United States,Yes,Yes,Sometimes,6-25,Yes,Yes,Don't know,Yes,No
+36,35-44,United States,No,No,Often,6-25,No,Yes,Yes,No,Maybe
+27,25-29,Canada,No,Yes,Never,100-500,No,No,Yes,Yes,Maybe
+27,25-29,United States,Yes,No,Never,500-1000,No,Yes,Yes,No,Yes
+27,25-29,United Kingdom,No,No,No condition,6-25,No,Yes,No,Some of them,No
+32,30-34,United States,No,Yes,Rarely,100-500,No,Yes,Yes,Yes,Yes
+31,30-34,United Kingdom,Yes,No,Sometimes,6-25,No,Yes,No,No,Maybe
+19,18-24,Slovenia,No,Yes,Sometimes,6-25,No,Yes,Don't know,No,Yes
+33,30-34,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Some of them,Maybe
+32,30-34,United States,No,No,Rarely,1-5,Yes,Yes,No,Some of them,Maybe
+27,25-29,United States,No,No,Never,26-100,No,Yes,Don't know,Yes,No
+38,35-44,Costa Rica,No,No,No condition,26-100,Yes,Yes,No,Yes,No
+24,18-24,Canada,No,Yes,Never,26-100,No,Yes,Don't know,Yes,No
+39,35-44,United Kingdom,No,No,Never,26-100,No,No,No,No,Yes
+28,25-29,United Kingdom,No,No,Never,6-25,No,Yes,Don't know,Yes,No
+39,35-44,United States,No,Yes,Often,More than 1000,No,Yes,Yes,Yes,No
+29,25-29,United States,No,No,No condition,6-25,No,Yes,Don't know,No,Maybe
+22,18-24,Austria,No,No,No condition,6-25,Yes,Yes,Don't know,Some of them,No
+38,35-44,United States,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,Yes,Maybe
+37,35-44,United Kingdom,No,Yes,Sometimes,More than 1000,No,No,No,No,Yes
+35,35-44,United States,No,No,Never,26-100,Yes,No,Don't know,No,Yes
+30,30-34,United States,Yes,No,No condition,More than 1000,Yes,Yes,Don't know,Some of them,Maybe
+37,35-44,United States,Yes,Yes,Rarely,100-500,No,No,Yes,Yes,Maybe
+24,18-24,United Kingdom,No,No,Never,6-25,No,Yes,No,Some of them,Maybe
+23,18-24,United States,No,No,Sometimes,6-25,No,No,No,No,Yes
+30,30-34,Ireland,No,Yes,Rarely,100-500,No,Yes,No,No,Yes
+29,25-29,United States,No,No,No condition,100-500,Yes,Yes,Don't know,Some of them,Maybe
+19,18-24,Canada,Yes,No,No condition,1-5,Yes,Yes,Don't know,Some of them,Maybe
+32,30-34,United States,Yes,No,Never,26-100,No,Yes,Don't know,Some of them,No
+28,25-29,Poland,No,No,Rarely,6-25,Yes,Yes,No,Yes,No
+36,35-44,United States,No,No,Never,6-25,No,Yes,Don't know,Some of them,No
+37,35-44,United Kingdom,Yes,Yes,Rarely,More than 1000,No,No,Yes,No,Yes
+25,25-29,United States,Yes,Yes,Sometimes,26-100,No,No,Don't know,Some of them,Maybe
+27,25-29,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Some of them,No
+26,25-29,United States,No,No,Often,26-100,No,No,Don't know,Yes,Yes
+27,25-29,United States,No,Yes,Rarely,26-100,Yes,Yes,No,Yes,Maybe
+25,25-29,United States,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,No,Maybe
+36,35-44,United Kingdom,No,Yes,Sometimes,More than 1000,No,No,Yes,Some of them,Maybe
+25,25-29,United States,Yes,Yes,Sometimes,500-1000,No,Yes,Yes,Some of them,Yes
+31,30-34,United States,No,No,Never,More than 1000,No,Yes,Yes,Some of them,No
+26,25-29,United States,Yes,No,Rarely,6-25,No,Yes,Don't know,Yes,Maybe
+33,30-34,United States,Yes,Yes,Sometimes,1-5,No,Yes,No,Yes,No
+27,25-29,United Kingdom,Yes,No,No condition,1-5,Yes,Yes,No,Yes,No
+34,30-34,United States,No,No,Never,26-100,No,Yes,No,Some of them,Maybe
+42,35-44,United States,No,No,No condition,6-25,No,Yes,No,Yes,Maybe
+23,18-24,Ireland,Yes,No,Sometimes,1-5,No,Yes,No,No,Yes
+24,18-24,United Kingdom,No,No,Rarely,100-500,No,Yes,Don't know,Some of them,Maybe
+26,25-29,United Kingdom,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No
+31,30-34,United Kingdom,No,Yes,Often,6-25,No,Yes,Don't know,Yes,Maybe
+22,18-24,India,No,Yes,Never,More than 1000,No,Yes,Don't know,No,Yes
+23,18-24,United States,No,No,No condition,6-25,No,Yes,Don't know,Yes,Maybe
+34,30-34,Canada,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,No
+31,30-34,United States,No,No,Never,26-100,No,Yes,Don't know,Some of them,Maybe
+28,25-29,United Kingdom,No,No,No condition,100-500,No,No,No,Some of them,No
+32,30-34,United States,No,Yes,Often,6-25,Yes,Yes,Yes,Yes,No
+45,45+,United States,No,Yes,Sometimes,1-5,No,Yes,Yes,Yes,No
+33,30-34,United States,No,No,No condition,6-25,Yes,Yes,Don't know,Yes,No
+29,25-29,Mexico,No,No,Never,6-25,Yes,Yes,No,Yes,Maybe
+26,25-29,India,No,No,Sometimes,6-25,No,No,No,Some of them,Maybe
+28,25-29,United Kingdom,No,No,Never,26-100,No,Yes,Don't know,Yes,No
+45,45+,United States,No,Yes,Sometimes,More than 1000,No,Yes,Don't know,Some of them,Yes
+43,35-44,United States,Yes,Yes,Often,More than 1000,Yes,Yes,Yes,No,Yes
+37,35-44,United States,No,No,No condition,500-1000,Yes,Yes,Yes,No,Yes
+24,18-24,United Kingdom,No,No,Sometimes,6-25,No,Yes,Don't know,Yes,Maybe
+26,25-29,France,No,No,No condition,6-25,Yes,Yes,No,No,No
+23,18-24,United Kingdom,Yes,No,No condition,1-5,Yes,Yes,Don't know,Yes,No
+35,35-44,United States,Yes,Yes,Never,More than 1000,No,Yes,Yes,No,Maybe
+38,35-44,South Africa,Yes,Yes,Often,1-5,Yes,Yes,No,Some of them,Maybe
+28,25-29,United States,Yes,Yes,Sometimes,26-100,No,Yes,Yes,No,Maybe
+28,25-29,Russia,No,No,Sometimes,26-100,No,Yes,No,No,Yes
+35,35-44,United States,No,Yes,Rarely,6-25,No,Yes,No,Yes,No
+32,30-34,Germany,No,No,Sometimes,100-500,No,Yes,No,No,Yes
+31,30-34,Italy,Yes,No,Never,6-25,No,Yes,No,Some of them,Maybe
+35,35-44,United States,No,No,Never,500-1000,Yes,Yes,Don't know,No,Maybe
+26,25-29,United States,No,No,Rarely,More than 1000,No,Yes,Yes,Yes,No
+27,25-29,United States,Yes,No,No condition,6-25,Yes,Yes,Yes,Some of them,Maybe
+28,25-29,United Kingdom,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,No,Maybe
+27,25-29,United States,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Some of them,No
+34,30-34,United States,No,Yes,Sometimes,500-1000,No,No,Yes,Yes,Maybe
+41,35-44,United States,No,Yes,Often,6-25,Yes,Yes,No,Some of them,Maybe
+37,35-44,Ireland,No,No,Sometimes,1-5,No,Yes,No,No,Yes
+34,30-34,Austria,Yes,No,No condition,100-500,Yes,Yes,Don't know,Yes,No
+32,30-34,United Kingdom,Yes,Yes,Sometimes,100-500,Yes,Yes,Don't know,No,Yes
+21,18-24,Canada,No,Yes,Sometimes,6-25,Yes,Yes,No,Some of them,No
+30,30-34,United States,No,Yes,Often,26-100,No,Yes,No,Yes,Maybe
+24,18-24,United States,No,No,Never,26-100,No,Yes,Don't know,Yes,No
+26,25-29,Bulgaria,No,No,No condition,100-500,No,Yes,No,No,Yes
+40,35-44,United States,No,No,No condition,26-100,No,Yes,Yes,Yes,No
+37,35-44,United Kingdom,Yes,No,Sometimes,26-100,No,No,No,Yes,Yes
+26,25-29,United Kingdom,No,Yes,Often,1-5,Yes,Yes,No,No,Yes
+32,30-34,United States,Yes,Yes,Sometimes,6-25,No,Yes,Don't know,Some of them,Yes
+32,30-34,United States,No,Yes,Sometimes,100-500,No,No,Yes,Yes,No
+27,25-29,United States,Yes,Yes,Sometimes,1-5,Yes,Yes,No,No,No
+30,30-34,Germany,No,Yes,Often,6-25,Yes,Yes,Yes,Yes,No
+31,30-34,Canada,No,No,No condition,6-25,No,Yes,Yes,Some of them,No
+29,25-29,United States,No,Yes,Never,500-1000,No,No,Yes,No,Maybe
+41,35-44,United States,No,No,No condition,26-100,No,Yes,Yes,Some of them,Yes
+34,30-34,United States,No,No,No condition,6-25,No,Yes,Yes,Yes,No
+33,30-34,United Kingdom,No,No,No condition,26-100,No,Yes,Don't know,Yes,No
+28,25-29,United States,No,No,Rarely,6-25,No,Yes,Don't know,Some of them,No
+28,25-29,United States,No,Yes,Sometimes,More than 1000,No,Yes,No,Some of them,Yes
+23,18-24,United States,No,No,Never,26-100,No,Yes,Don't know,Yes,No
+24,18-24,United States,No,No,No condition,1-5,No,Yes,Don't know,Yes,No
+32,30-34,United States,No,No,Rarely,1-5,Yes,Yes,No,Yes,No
+34,30-34,Australia,No,No,Sometimes,1-5,Yes,Yes,Don't know,No,Yes
+24,18-24,United States,No,No,Never,6-25,No,Yes,Yes,No,Maybe
+26,25-29,United Kingdom,No,Yes,Sometimes,1-5,No,Yes,No,Some of them,Maybe
+36,35-44,United States,No,Yes,Sometimes,26-100,No,Yes,Yes,Some of them,Maybe
+41,35-44,United States,No,Yes,Rarely,500-1000,Yes,Yes,Yes,No,Maybe
+38,35-44,United Kingdom,No,Yes,Sometimes,More than 1000,No,No,Don't know,No,Yes
+38,35-44,United States,No,No,Sometimes,26-100,Yes,Yes,Don't know,Yes,Maybe
+30,30-34,Netherlands,No,No,No condition,26-100,No,Yes,Don't know,Some of them,No
+25,25-29,United Kingdom,No,No,Never,26-100,No,Yes,No,No,Yes
+37,35-44,Canada,Yes,Yes,Often,26-100,No,Yes,Yes,Some of them,Maybe
+34,30-34,United Kingdom,Yes,No,No condition,6-25,No,Yes,No,Yes,No
+37,35-44,United States,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Some of them,No
+28,25-29,Canada,Yes,Yes,Sometimes,6-25,No,No,Yes,Yes,No
+22,18-24,Sweden,No,No,No condition,6-25,No,Yes,Don't know,Yes,No
+34,30-34,United States,Yes,Yes,Sometimes,1-5,No,Yes,No,Some of them,Maybe
+33,30-34,United States,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No
+25,25-29,South Africa,No,No,No condition,6-25,No,Yes,No,Yes,Maybe
+27,25-29,United States,No,No,Never,More than 1000,Yes,Yes,Yes,Yes,No
+40,35-44,United States,No,Yes,Sometimes,More than 1000,Yes,Yes,Yes,No,Yes
+21,18-24,United States,No,Yes,Often,6-25,No,No,Don't know,No,Maybe
+29,25-29,United Kingdom,No,No,No condition,6-25,No,No,No,Yes,No
+32,30-34,United States,Yes,Yes,Sometimes,1-5,Yes,Yes,No,Yes,Maybe
+29,25-29,United States,Yes,Yes,Rarely,500-1000,Yes,No,Yes,No,Maybe
+23,18-24,United States,Yes,Yes,Sometimes,26-100,Yes,No,Don't know,Some of them,Maybe
+28,25-29,United States,Yes,No,No condition,100-500,No,Yes,Yes,Yes,No
+31,30-34,United States,Yes,Yes,Rarely,100-500,Yes,Yes,Yes,Yes,No
+27,25-29,United Kingdom,No,No,No condition,100-500,No,No,Don't know,Yes,Maybe
+24,18-24,United States,No,No,Sometimes,6-25,No,Yes,Don't know,Yes,No
+29,25-29,Canada,No,No,Often,6-25,No,Yes,No,No,Yes
+23,18-24,United Kingdom,No,Yes,Sometimes,6-25,No,Yes,Don't know,Some of them,Maybe
+42,35-44,United States,No,No,Never,6-25,Yes,Yes,No,Yes,No
+24,18-24,United Kingdom,No,No,No condition,1-5,No,Yes,No,Some of them,Yes
+25,25-29,Australia,Yes,Yes,Often,6-25,No,Yes,No,No,Yes
+27,25-29,United States,No,Yes,Rarely,6-25,No,Yes,Yes,No,Maybe
+27,25-29,Canada,No,No,Sometimes,6-25,Yes,Yes,No,Some of them,Yes
+30,30-34,United States,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes,No
+29,25-29,Poland,Yes,Yes,Rarely,6-25,No,Yes,No,Some of them,Maybe
+43,35-44,Canada,No,No,No condition,6-25,Yes,Yes,No,Yes,Maybe
+32,30-34,United States,No,No,No condition,6-25,No,Yes,No,Yes,No
+41,35-44,United States,No,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,No
+32,30-34,United Kingdom,Yes,Yes,Sometimes,1-5,Yes,Yes,Don't know,Some of them,Maybe
+37,35-44,United States,Yes,Yes,Often,26-100,No,Yes,Yes,Some of them,Maybe
+32,30-34,United States,No,No,Never,6-25,Yes,Yes,No,Yes,No
+30,30-34,Ireland,No,No,Sometimes,1-5,Yes,Yes,No,Some of them,No
+23,18-24,United States,Yes,Yes,Never,100-500,No,No,Yes,Yes,No
+30,30-34,United States,No,No,No condition,More than 1000,No,Yes,Yes,Yes,No
+34,30-34,United Kingdom,No,No,Sometimes,26-100,No,Yes,No,Some of them,Maybe
+38,35-44,United States,No,Yes,Rarely,26-100,Yes,Yes,Yes,No,Yes
+33,30-34,Canada,No,No,No condition,100-500,No,Yes,Yes,Yes,No
+34,30-34,United States,No,No,No condition,26-100,No,No,Yes,No,Maybe
+28,25-29,Colombia,No,No,Sometimes,6-25,No,Yes,No,Some of them,Maybe
+28,25-29,United States,No,Yes,Rarely,100-500,No,No,Yes,Some of them,Maybe
+23,18-24,United States,Yes,No,Sometimes,100-500,No,Yes,Don't know,No,Maybe
+22,18-24,Australia,Yes,Yes,Sometimes,6-25,Yes,Yes,Don't know,Yes,Maybe
+27,25-29,Portugal,No,No,Never,6-25,No,Yes,No,No,Yes
+18,18-24,United States,No,Yes,Sometimes,6-25,No,Yes,Don't know,No,Yes
+35,35-44,United States,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Some of them,Yes
+25,25-29,Canada,No,No,No condition,100-500,No,No,Don't know,Some of them,No
+27,25-29,United Kingdom,Yes,Yes,Sometimes,6-25,No,Yes,No,Yes,Maybe
+26,25-29,United States,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Some of them,Maybe
+18,18-24,United States,No,No,Never,26-100,No,Yes,Don't know,Some of them,No
+38,35-44,United States,No,Yes,Sometimes,1-5,No,Yes,No,No,No
+26,25-29,United States,Yes,Yes,Rarely,More than 1000,Yes,Yes,Yes,No,Maybe
+30,30-34,Switzerland,No,No,Never,1-5,No,Yes,No,Yes,No
+35,35-44,United States,No,No,Never,More than 1000,No,Yes,Don't know,Some of them,Yes
+45,45+,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Some of them,Maybe
+32,30-34,United States,No,No,Never,More than 1000,No,Yes,Yes,Some of them,Maybe
+56,45+,United States,No,Yes,Never,More than 1000,No,Yes,Yes,Some of them,No
+24,18-24,United States,No,No,No condition,500-1000,No,Yes,Don't know,No,Maybe
+30,30-34,United States,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No
+60,45+,United States,No,No,No condition,More than 1000,No,Yes,Yes,Yes,No
+33,30-34,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,No,Yes
+37,35-44,United States,No,No,Never,More than 1000,No,Yes,Yes,Yes,No
+23,18-24,United States,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Some of them,No
+31,30-34,United States,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No
+26,25-29,United States,No,No,Rarely,100-500,No,Yes,Yes,Yes,No
+28,25-29,United States,Yes,Yes,Often,100-500,Yes,No,Yes,Yes,Yes
+37,35-44,United States,No,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,No
+26,25-29,Canada,Yes,Yes,Often,6-25,No,Yes,Yes,Some of them,Maybe
+30,30-34,United States,Yes,Yes,Rarely,26-100,No,Yes,Yes,Yes,Maybe
+26,25-29,United States,No,No,No condition,26-100,No,Yes,No,Some of them,No
+25,25-29,United States,No,No,No condition,26-100,Yes,Yes,Don't know,Yes,No
+27,25-29,United States,No,No,Sometimes,100-500,No,Yes,Yes,Yes,Maybe
+25,25-29,Canada,No,Yes,Often,6-25,Yes,No,Don't know,No,Yes
+35,35-44,United States,No,Yes,Rarely,100-500,No,Yes,Yes,Yes,No
+36,35-44,United States,No,Yes,Never,1-5,No,Yes,No,Yes,Maybe
+26,25-29,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,No,Yes
+27,25-29,United States,Yes,No,No condition,More than 1000,No,Yes,Don't know,Yes,No
+30,30-34,United States,No,No,No condition,6-25,No,No,Don't know,Some of them,Maybe
+29,25-29,United States,No,No,No condition,100-500,No,No,Don't know,No,Maybe
+25,25-29,United States,No,No,Never,More than 1000,No,No,Yes,Yes,No
+22,18-24,United States,Yes,Yes,Often,More than 1000,No,Yes,Yes,Some of them,Maybe
+29,25-29,Latvia,No,No,No condition,26-100,No,Yes,No,Some of them,Maybe
+41,35-44,United States,Yes,Yes,Rarely,100-500,Yes,Yes,Yes,Yes,No
+29,25-29,United States,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Some of them,Yes
+32,30-34,United States,No,No,Never,500-1000,No,Yes,Yes,Yes,No
+24,18-24,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,No,Maybe
+25,25-29,United States,No,Yes,Rarely,6-25,No,Yes,Yes,No,Maybe
+25,25-29,United States,No,No,No condition,More than 1000,No,Yes,Don't know,No,Maybe
+30,30-34,United States,No,No,Never,More than 1000,No,Yes,Yes,Some of them,Maybe
+25,25-29,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Yes,No
+30,30-34,United States,No,No,Never,1-5,Yes,Yes,No,Some of them,Maybe
+33,30-34,Germany,Yes,Yes,Rarely,1-5,No,No,No,No,Yes
+24,18-24,United States,No,No,No condition,26-100,No,Yes,Yes,Some of them,No
+25,25-29,Canada,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,No,Yes
+31,30-34,United States,No,No,No condition,100-500,No,No,Don't know,No,Maybe
+45,45+,Ireland,No,Yes,Often,1-5,No,Yes,No,No,No
+29,25-29,Romania,No,No,No condition,6-25,Yes,No,No,Some of them,Maybe
+46,45+,United States,No,No,Never,26-100,No,Yes,Yes,Some of them,No
+30,30-34,United Kingdom,No,Yes,Sometimes,26-100,No,Yes,Don't know,No,Yes
+29,25-29,United States,No,No,Sometimes,More than 1000,No,Yes,Yes,Some of them,Maybe
+24,18-24,United States,No,No,No condition,More than 1000,No,Yes,Yes,No,Yes
+29,25-29,United States,No,No,No condition,26-100,No,Yes,Yes,Yes,No
+35,35-44,United States,No,No,No condition,26-100,No,No,Don't know,Yes,No
+33,30-34,United States,Yes,No,Sometimes,26-100,Yes,Yes,No,Some of them,Yes
+27,25-29,United States,No,No,Sometimes,More than 1000,No,Yes,Don't know,No,Yes
+36,35-44,United States,No,No,No condition,More than 1000,No,Yes,Don't know,Some of them,Maybe
+33,30-34,United Kingdom,No,No,Rarely,1-5,Yes,Yes,Don't know,No,Yes
+25,25-29,United States,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No
+23,18-24,United States,Yes,Yes,Sometimes,100-500,No,No,Don't know,Yes,No
+54,45+,United States,Yes,Yes,Never,More than 1000,No,Yes,Don't know,Yes,No
+22,18-24,United States,No,No,Sometimes,More than 1000,No,Yes,Don't know,No,Maybe
+25,25-29,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Some of them,Maybe
+29,25-29,Belgium,No,No,Often,6-25,No,No,Don't know,Yes,Maybe
+27,25-29,United States,No,Yes,Sometimes,More than 1000,No,Yes,Yes,No,No
+30,30-34,United Kingdom,No,No,Never,6-25,No,Yes,No,Yes,No
+26,25-29,United States,Yes,Yes,Often,More than 1000,No,Yes,Yes,No,Maybe
+25,25-29,Sweden,Yes,No,Sometimes,6-25,No,Yes,Yes,Yes,No
+31,30-34,United States,No,Yes,Sometimes,500-1000,No,No,No,No,No
+33,30-34,United States,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Some of them,Maybe
+34,30-34,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,No,Maybe
+34,30-34,United States,No,Yes,Sometimes,100-500,Yes,Yes,No,Some of them,Yes
+29,25-29,United States,No,No,No condition,1-5,Yes,Yes,No,Yes,No
+33,30-34,United States,No,No,No condition,6-25,No,Yes,No,Some of them,Maybe
+34,30-34,Germany,Yes,Yes,Rarely,26-100,Yes,Yes,No,Yes,No
+26,25-29,United States,Yes,Yes,Rarely,100-500,Yes,No,No,Yes,Maybe
+32,30-34,United States,Yes,Yes,Rarely,More than 1000,No,No,Yes,Yes,No
+28,25-29,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,No,Maybe
+35,35-44,United States,Yes,No,No condition,More than 1000,No,Yes,Yes,Yes,No
+36,35-44,United States,Yes,Yes,Often,100-500,No,Yes,No,Some of them,No
+21,18-24,United States,Yes,Yes,Rarely,100-500,No,Yes,Yes,Yes,No
+21,18-24,United Kingdom,No,Yes,Sometimes,6-25,No,No,Don't know,No,Yes
+22,18-24,United States,No,No,No condition,More than 1000,No,Yes,Yes,Some of them,No
+41,35-44,United States,Yes,Yes,Often,More than 1000,No,Yes,Yes,Some of them,Maybe
+55,45+,United States,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,No
+32,30-34,United States,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Maybe
+21,18-24,United States,Yes,Yes,Rarely,26-100,No,Yes,Don't know,No,Yes
+45,45+,United States,No,Yes,Never,26-100,Yes,Yes,Yes,Some of them,Maybe
+27,25-29,United States,No,Yes,Rarely,More than 1000,No,Yes,Yes,No,Yes
+25,25-29,United States,Yes,Yes,Sometimes,26-100,Yes,Yes,Don't know,Yes,Maybe
+34,30-34,United States,Yes,Yes,Rarely,More than 1000,No,No,Yes,Some of them,Maybe
+26,25-29,United States,Yes,Yes,Never,More than 1000,No,Yes,Yes,No,Maybe
+41,35-44,Canada,No,Yes,Never,500-1000,No,Yes,Yes,Some of them,No
+27,25-29,United States,No,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,No
+31,30-34,United States,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes,No
+25,25-29,Germany,Yes,Yes,Often,26-100,Yes,Yes,No,Yes,No
+26,25-29,United States,No,Yes,Sometimes,6-25,No,Yes,Don't know,No,Yes
+27,25-29,United States,Yes,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes,Maybe
+42,35-44,New Zealand,No,No,Never,500-1000,No,Yes,Don't know,Yes,No
+29,25-29,United States,Yes,Yes,Sometimes,1-5,Yes,Yes,Yes,No,Yes
+25,25-29,United States,No,Yes,Sometimes,6-25,No,Yes,Don't know,No,Yes
+33,30-34,Sweden,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,No,Maybe
+40,35-44,United States,Yes,Yes,Rarely,More than 1000,No,No,Yes,No,Maybe
+31,30-34,United States,No,No,Never,More than 1000,No,Yes,Don't know,No,Yes
+26,25-29,Canada,Yes,Yes,Often,26-100,Yes,Yes,Don't know,Yes,No
+24,18-24,United States,Yes,No,No condition,500-1000,No,No,No,No,Yes
+29,25-29,United States,No,No,Never,More than 1000,No,No,Yes,Some of them,Maybe
+48,45+,United Kingdom,No,No,No condition,26-100,No,Yes,Don't know,No,Maybe
+35,35-44,United Kingdom,No,No,Sometimes,6-25,No,Yes,No,Yes,Maybe
+32,30-34,United States,No,No,Never,100-500,No,Yes,Don't know,Some of them,Maybe
+29,25-29,Canada,No,Yes,Sometimes,100-500,No,Yes,Don't know,Some of them,Maybe
+26,25-29,United States,Yes,Yes,Often,6-25,No,Yes,Yes,Yes,Maybe
+28,25-29,United States,Yes,Yes,Sometimes,26-100,No,Yes,Yes,No,Maybe
+23,18-24,United States,No,No,No condition,More than 1000,No,Yes,Don't know,Yes,No
+35,35-44,United States,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Some of them,Maybe
+29,25-29,Germany,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Some of them,Maybe
+26,25-29,United States,Yes,No,No condition,6-25,No,Yes,Yes,Yes,No
+33,30-34,United States,Yes,Yes,Never,26-100,Yes,Yes,Yes,Some of them,Yes
+33,30-34,United States,No,No,No condition,More than 1000,Yes,Yes,Don't know,No,Yes
+22,18-24,Brazil,No,No,Never,6-25,Yes,Yes,Don't know,Yes,No
+30,30-34,Spain,Yes,No,No condition,500-1000,No,Yes,No,No,Yes
+33,30-34,United States,Yes,Yes,Often,More than 1000,Yes,Yes,Yes,No,Yes
+31,30-34,United States,Yes,Yes,Rarely,More than 1000,No,No,Don't know,No,Yes
+21,18-24,United States,Yes,No,Never,More than 1000,No,Yes,Don't know,Some of them,No
+31,30-34,United Kingdom,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,No,Yes
+26,25-29,United States,No,Yes,Sometimes,100-500,Yes,Yes,Don't know,Some of them,No
+30,30-34,United States,Yes,No,Often,6-25,No,Yes,Don't know,Yes,Maybe
+30,30-34,Germany,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,Yes,No
+23,18-24,India,No,No,No condition,6-25,No,Yes,No,Yes,No
+34,30-34,Finland,No,No,Never,6-25,No,Yes,No,Yes,No
+55,45+,United States,Yes,Yes,Sometimes,1-5,Yes,Yes,No,No,Yes
+28,25-29,Germany,Yes,Yes,Rarely,1-5,Yes,Yes,Yes,Yes,No
+26,25-29,Uruguay,No,No,No condition,26-100,Yes,Yes,Don't know,No,No
+28,25-29,New Zealand,Yes,Yes,Sometimes,6-25,Yes,Yes,Yes,Yes,No
+32,30-34,United Kingdom,Yes,Yes,Sometimes,6-25,No,Yes,No,Yes,No
+28,25-29,United States,No,Yes,Rarely,More than 1000,No,No,Yes,No,Maybe
+21,18-24,United States,No,No,Sometimes,6-25,No,No,Don't know,Some of them,No
+24,18-24,United States,Yes,Yes,Sometimes,100-500,No,Yes,No,Some of them,Yes
+26,25-29,United States,No,No,No condition,More than 1000,No,No,Yes,No,Maybe
+23,18-24,United States,No,No,No condition,More than 1000,No,No,Yes,No,No
+24,18-24,United States,No,No,No condition,More than 1000,No,Yes,Yes,Some of them,No
+28,25-29,Canada,No,No,Never,100-500,Yes,Yes,Don't know,Yes,Maybe
+24,18-24,United States,Yes,Yes,Rarely,6-25,No,Yes,No,Some of them,Yes
+33,30-34,United States,No,Yes,Often,1-5,Yes,Yes,No,Some of them,Yes
+34,30-34,United States,No,No,Sometimes,26-100,No,Yes,Don't know,Yes,Maybe
+27,25-29,United States,No,Yes,Sometimes,26-100,No,Yes,Don't know,Some of them,Maybe
+28,25-29,United States,No,No,Never,6-25,No,Yes,Don't know,Yes,No
+26,25-29,United States,No,No,No condition,More than 1000,No,Yes,Don't know,Yes,No
+20,18-24,Australia,No,No,No condition,100-500,Yes,Yes,Don't know,Yes,No
+23,18-24,United States,No,Yes,Sometimes,26-100,No,Yes,Yes,No,Maybe
+29,25-29,United States,Yes,Yes,Rarely,1-5,Yes,Yes,Yes,Yes,No
+26,25-29,United Kingdom,Yes,No,Sometimes,6-25,No,Yes,No,No,Maybe
+36,35-44,United States,No,No,Rarely,More than 1000,Yes,Yes,Yes,No,Maybe
+41,35-44,United States,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Maybe
+33,30-34,United States,No,No,No condition,100-500,Yes,Yes,Yes,Yes,No
+23,18-24,Canada,Yes,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No
+39,35-44,United States,Yes,No,Often,More than 1000,No,Yes,Yes,Some of them,Yes
+34,30-34,United States,Yes,No,No condition,More than 1000,No,Yes,Yes,Some of them,Maybe
+26,25-29,United States,No,Yes,Sometimes,100-500,No,Yes,Yes,Some of them,Yes
+24,18-24,United States,No,Yes,Rarely,26-100,No,Yes,Yes,Yes,No
+37,35-44,Canada,Yes,Yes,Rarely,More than 1000,No,No,Yes,Some of them,Maybe
+43,35-44,United States,Yes,Yes,Often,6-25,Yes,Yes,Yes,Yes,No
+40,35-44,United States,Yes,No,Never,More than 1000,No,Yes,Yes,Some of them,Yes
+30,30-34,United States,Yes,Yes,Often,More than 1000,No,Yes,Yes,No,Yes
+34,30-34,United States,No,Yes,Sometimes,6-25,No,Yes,Don't know,No,Yes
+27,25-29,United States,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,No,Yes
+36,35-44,United States,No,No,Sometimes,More than 1000,No,Yes,Don't know,Yes,No
+27,25-29,Brazil,No,No,Rarely,6-25,No,Yes,No,Some of them,Maybe
+35,35-44,Netherlands,Yes,No,Never,100-500,No,Yes,Yes,No,Yes
+32,30-34,United Kingdom,No,No,Never,6-25,No,Yes,No,No,Maybe
+37,35-44,United States,No,No,No condition,500-1000,No,Yes,Yes,Some of them,Maybe
+29,25-29,United Kingdom,No,No,No condition,26-100,No,Yes,Don't know,Yes,No
+33,30-34,United States,No,No,Never,500-1000,No,Yes,Yes,Yes,Maybe
+28,25-29,United States,No,No,Sometimes,6-25,Yes,Yes,No,No,Yes
+26,25-29,United States,Yes,No,Never,26-100,No,Yes,Don't know,No,Maybe
+27,25-29,United States,Yes,Yes,Sometimes,6-25,Yes,Yes,Don't know,Yes,Yes
+38,35-44,United Kingdom,No,Yes,Sometimes,26-100,Yes,Yes,No,Yes,Maybe
+57,45+,United States,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Maybe
+28,25-29,United Kingdom,No,Yes,Sometimes,More than 1000,No,Yes,No,Some of them,Yes
+26,25-29,France,No,No,Never,6-25,No,Yes,No,Yes,Maybe
+42,35-44,Netherlands,No,Yes,Rarely,100-500,Yes,Yes,Yes,No,Yes
+31,30-34,United States,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes,No
+58,45+,United States,No,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,Maybe
+29,25-29,United States,No,No,Sometimes,6-25,No,Yes,Don't know,No,Yes
+39,35-44,United Kingdom,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Some of them,Yes
+34,30-34,United States,No,No,Sometimes,6-25,Yes,Yes,Don't know,Yes,Maybe
+57,45+,United States,No,Yes,Sometimes,More than 1000,No,Yes,Yes,No,Maybe
+27,25-29,Germany,Yes,Yes,Sometimes,6-25,No,Yes,No,No,Yes
+23,18-24,Germany,Yes,Yes,Often,26-100,Yes,Yes,Don't know,Yes,No
+18,18-24,Finland,No,No,No condition,500-1000,Yes,No,Don't know,No,Yes
+30,30-34,United States,No,No,No condition,100-500,No,Yes,Don't know,Yes,Maybe
+23,18-24,United States,No,No,Never,26-100,No,No,Don't know,Yes,No
+43,35-44,United States,No,Yes,Sometimes,More than 1000,No,Yes,Yes,No,Yes
+18,18-24,United Kingdom,Yes,Yes,Sometimes,1-5,Yes,Yes,Don't know,Some of them,Maybe
+29,25-29,United States,No,Yes,Rarely,6-25,No,Yes,Yes,No,Maybe
+48,45+,United States,No,No,Never,6-25,No,Yes,Don't know,No,Maybe
+43,35-44,Germany,No,Yes,Sometimes,26-100,No,No,No,Some of them,Maybe
+28,25-29,United States,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,No,Yes
+30,30-34,United States,Yes,Yes,Often,1-5,Yes,Yes,No,Yes,No
+26,25-29,Israel,No,No,Sometimes,6-25,No,Yes,No,Yes,Maybe
+33,30-34,Italy,No,No,Never,6-25,No,No,No,Some of them,Maybe
+31,30-34,United States,No,No,No condition,More than 1000,No,Yes,Yes,Some of them,No
+30,30-34,United States,No,No,Rarely,100-500,No,No,Don't know,Some of them,No
+27,25-29,Israel,No,No,No condition,26-100,No,Yes,No,No,Yes
+24,18-24,United States,Yes,Yes,Sometimes,1-5,Yes,Yes,No,Some of them,No
+25,25-29,United States,No,No,No condition,26-100,No,Yes,Don't know,No,Maybe
+23,18-24,United States,Yes,Yes,Often,More than 1000,No,Yes,Yes,Some of them,Maybe
+36,35-44,United States,No,Yes,Sometimes,More than 1000,No,No,Yes,No,Yes
+25,25-29,United States,Yes,Yes,Often,1-5,Yes,Yes,Don't know,No,Yes
+54,45+,United Kingdom,No,Yes,Sometimes,More than 1000,Yes,No,No,Yes,No
+34,30-34,Netherlands,No,No,Rarely,6-25,No,Yes,Don't know,Some of them,No
+38,35-44,United States,No,Yes,No condition,26-100,No,Yes,Yes,No,Maybe
+40,35-44,Ireland,Yes,No,No condition,More than 1000,No,Yes,No,No,Yes
+32,30-34,United Kingdom,No,No,No condition,26-100,No,Yes,No,Some of them,No
+25,25-29,Germany,No,No,Never,More than 1000,No,No,Don't know,Yes,No
+35,35-44,United States,No,Yes,Sometimes,100-500,No,Yes,No,No,Yes
+46,45+,United States,No,Yes,Sometimes,More than 1000,No,Yes,Yes,No,Maybe
+42,35-44,United States,No,No,Never,100-500,No,No,Yes,Yes,Maybe
+32,30-34,United Kingdom,Yes,Yes,Sometimes,6-25,Yes,Yes,Yes,Yes,No
+47,45+,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No
+22,18-24,United States,No,No,No condition,More than 1000,No,Yes,Yes,Yes,No
+33,30-34,United States,No,Yes,Sometimes,500-1000,Yes,Yes,Yes,Some of them,No
+25,25-29,United States,No,No,Sometimes,6-25,No,Yes,No,No,Maybe
+29,25-29,United States,No,No,No condition,More than 1000,No,Yes,Don't know,No,Maybe
+39,35-44,United States,No,No,Never,26-100,No,Yes,Yes,Yes,No
+38,35-44,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,No,Yes
+43,35-44,United States,No,No,No condition,6-25,Yes,Yes,Don't know,No,Maybe
+46,45+,United States,No,Yes,Rarely,500-1000,Yes,Yes,Yes,Yes,No
+38,35-44,United States,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,Maybe
+33,30-34,Germany,No,Yes,Sometimes,6-25,No,Yes,Yes,Some of them,Yes
+34,30-34,United Kingdom,Yes,Yes,Often,26-100,No,Yes,No,Yes,Maybe
+62,45+,United States,No,No,Never,More than 1000,No,Yes,Yes,Yes,Maybe
+23,18-24,United States,No,No,No condition,More than 1000,No,No,Don't know,Some of them,Maybe
+35,35-44,United States,No,No,No condition,More than 1000,No,No,No,No,Maybe
+25,25-29,Bosnia and Herzegovina,Yes,No,Rarely,26-100,Yes,Yes,Don't know,No,Maybe
+36,35-44,United States,Yes,Yes,Sometimes,1-5,Yes,Yes,Don't know,Yes,Maybe
+41,35-44,United States,Yes,Yes,Rarely,500-1000,Yes,Yes,Yes,Some of them,Maybe
+24,18-24,Austria,No,No,Sometimes,1-5,No,Yes,Yes,Some of them,No
+51,45+,New Zealand,No,Yes,Sometimes,26-100,Yes,Yes,No,No,Yes
+29,25-29,United States,No,Yes,Sometimes,6-25,No,Yes,Yes,Some of them,No
+31,30-34,Canada,Yes,Yes,Sometimes,100-500,Yes,Yes,Don't know,Yes,Maybe
+27,25-29,United Kingdom,No,No,No condition,6-25,No,Yes,No,Yes,No
+31,30-34,Australia,No,Yes,Rarely,100-500,No,Yes,Yes,Yes,No
+27,25-29,Hungary,Yes,No,Sometimes,1-5,Yes,Yes,No,No,Yes
+23,18-24,Sweden,No,No,Rarely,6-25,No,Yes,Don't know,Yes,No
+21,18-24,Canada,No,No,Never,26-100,No,Yes,Don't know,No,Yes
+27,25-29,Australia,Yes,Yes,Sometimes,6-25,No,Yes,No,Some of them,Yes
+39,35-44,United States,Yes,Yes,Often,26-100,Yes,Yes,Yes,Yes,Yes
+26,25-29,United States,Yes,Yes,Never,More than 1000,No,Yes,Don't know,No,Maybe
+27,25-29,United Kingdom,No,No,Never,6-25,No,Yes,Don't know,Some of them,Maybe
+22,18-24,United States,Yes,Yes,Sometimes,500-1000,No,Yes,Yes,Some of them,No
+26,25-29,United States,Yes,Yes,Often,100-500,No,No,Don't know,No,Maybe
+31,30-34,United States,Yes,Yes,Rarely,100-500,No,Yes,Yes,Yes,No
+32,30-34,United Kingdom,No,No,Never,6-25,No,Yes,Don't know,Yes,No
+28,25-29,United States,Yes,Yes,Often,100-500,Yes,Yes,Yes,Some of them,Yes
+28,25-29,United Kingdom,Yes,Yes,Rarely,100-500,No,Yes,No,Some of them,Yes
+23,18-24,United Kingdom,No,No,No condition,6-25,No,Yes,Don't know,Some of them,Maybe
+30,30-34,United Kingdom,No,No,Never,26-100,Yes,Yes,Don't know,Yes,No
+36,35-44,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Yes
+21,18-24,United States,Yes,No,No condition,More than 1000,No,Yes,Yes,Yes,No
+30,30-34,Germany,No,No,Often,26-100,No,Yes,No,Some of them,Maybe
+25,25-29,United States,Yes,No,No condition,500-1000,No,No,Don't know,Some of them,Maybe
+32,30-34,New Zealand,No,Yes,Sometimes,6-25,No,Yes,No,Yes,No
+29,25-29,Canada,No,Yes,Sometimes,1-5,No,Yes,No,Some of them,Maybe
+21,18-24,United Kingdom,No,Yes,Sometimes,26-100,No,Yes,No,Some of them,Maybe
+27,25-29,New Zealand,Yes,Yes,Rarely,100-500,Yes,Yes,No,Some of them,Maybe
+32,30-34,Canada,No,Yes,Often,More than 1000,No,No,Don't know,Some of them,Maybe
+34,30-34,Australia,No,No,Sometimes,More than 1000,No,Yes,Yes,Yes,No
+33,30-34,United States,No,No,No condition,26-100,No,Yes,Don't know,No,Yes
+22,18-24,Netherlands,Yes,Yes,Sometimes,6-25,Yes,Yes,No,Yes,No
+24,18-24,United States,No,No,No condition,More than 1000,No,Yes,Don't know,Some of them,Maybe
+65,45+,United States,No,No,No condition,6-25,Yes,No,No,No,Maybe
+27,25-29,United States,Yes,Yes,Sometimes,100-500,Yes,Yes,Don't know,No,No
+33,30-34,Australia,No,No,Never,More than 1000,No,Yes,Don't know,Yes,No
+36,35-44,United States,No,Yes,Rarely,26-100,No,Yes,Don't know,Some of them,No
+40,35-44,Canada,No,No,Never,26-100,No,Yes,No,Some of them,No
+28,25-29,United States,No,Yes,Sometimes,More than 1000,No,Yes,Yes,No,Maybe
+39,35-44,United States,No,Yes,Sometimes,500-1000,No,Yes,Yes,Yes,Yes
+32,30-34,United States,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Some of them,No
+31,30-34,United States,Yes,No,Sometimes,More than 1000,No,Yes,Yes,Some of them,Maybe
+38,35-44,United States,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,No,Maybe
+23,18-24,United States,Yes,Yes,Rarely,1-5,No,Yes,No,Yes,Maybe
+42,35-44,United States,No,Yes,Often,More than 1000,No,Yes,Yes,Yes,Maybe
+27,25-29,United States,No,No,Sometimes,500-1000,No,Yes,Don't know,Yes,No
+26,25-29,United States,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No
+50,45+,United States,No,No,Never,26-100,Yes,Yes,No,No,No
+37,35-44,United States,Yes,No,Never,26-100,No,Yes,Don't know,Yes,No
+23,18-24,United States,No,No,No condition,26-100,No,Yes,Don't know,Yes,No
+33,30-34,United States,Yes,No,Sometimes,6-25,Yes,Yes,Don't know,Yes,No
+29,25-29,Canada,No,No,Never,26-100,Yes,Yes,Yes,No,Yes
+34,30-34,United States,Yes,Yes,Sometimes,26-100,Yes,No,Yes,Some of them,Maybe
+41,35-44,United States,Yes,Yes,Often,More than 1000,No,Yes,Yes,Some of them,Maybe
+50,45+,United States,Yes,No,No condition,100-500,Yes,Yes,Don't know,Yes,No
+29,25-29,Canada,No,Yes,Never,More than 1000,No,No,Yes,No,Maybe
+35,35-44,United States,No,No,Never,6-25,No,Yes,No,Yes,No
+27,25-29,Singapore,No,No,Sometimes,1-5,Yes,Yes,No,Yes,Yes
+40,35-44,United States,No,No,Never,26-100,No,No,Don't know,Yes,Maybe
+27,25-29,Australia,No,Yes,Often,100-500,Yes,Yes,No,No,Maybe
+29,25-29,United States,No,No,Never,26-100,No,Yes,Yes,Some of them,Maybe
+31,30-34,United States,Yes,Yes,Sometimes,6-25,No,Yes,No,Yes,Maybe
+43,35-44,United States,No,Yes,Sometimes,6-25,No,Yes,No,Yes,No
+34,30-34,United States,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Some of them,Maybe
+29,25-29,United States,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Some of them,Yes
+19,18-24,Canada,Yes,Yes,Sometimes,1-5,No,Yes,No,No,Maybe
+41,35-44,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Some of them,Maybe
+29,25-29,United States,Yes,No,Never,100-500,No,Yes,Yes,Yes,No
+23,18-24,United States,No,No,Rarely,100-500,No,Yes,Yes,Some of them,No
+24,18-24,United States,Yes,Yes,Sometimes,100-500,No,Yes,Yes,No,Yes
+31,30-34,United States,No,No,No condition,26-100,Yes,Yes,Don't know,No,Yes
+43,35-44,United States,No,No,No condition,500-1000,Yes,Yes,Don't know,Yes,No
+31,30-34,United States,Yes,Yes,Rarely,100-500,No,Yes,No,No,Yes
+29,25-29,United States,Yes,No,Often,100-500,No,Yes,Yes,Yes,No
+35,35-44,United States,Yes,No,No condition,6-25,Yes,Yes,No,Yes,No
+33,30-34,United States,Yes,Yes,Sometimes,100-500,No,No,Yes,No,Yes
+30,30-34,United States,Yes,Yes,Often,1-5,Yes,No,No,Yes,No
+27,25-29,United States,No,No,No condition,More than 1000,No,Yes,Yes,No,Maybe
+32,30-34,United States,No,No,Sometimes,100-500,No,Yes,No,Some of them,Maybe
+50,45+,United States,No,No,Sometimes,1-5,Yes,Yes,Don't know,Some of them,Yes
+24,18-24,United States,No,No,Never,26-100,No,No,Don't know,No,Maybe
+27,25-29,United States,No,No,No condition,26-100,No,Yes,Don't know,Yes,No
+27,25-29,Australia,No,No,Never,1-5,Yes,Yes,No,No,Yes
+32,30-34,United States,No,Yes,Sometimes,6-25,No,Yes,No,Yes,No
+42,35-44,United States,No,No,Rarely,6-25,Yes,No,No,Yes,No
+37,35-44,United States,No,No,Often,More than 1000,No,No,Don't know,No,Maybe
+30,30-34,Singapore,No,No,Sometimes,26-100,No,Yes,Don't know,No,Maybe
+29,25-29,United States,No,No,Rarely,More than 1000,No,Yes,Yes,No,Yes
+30,30-34,United States,No,Yes,Often,6-25,Yes,Yes,No,Yes,No
+35,35-44,United States,No,No,Never,26-100,No,Yes,Yes,Some of them,No
+35,35-44,United States,Yes,Yes,Rarely,100-500,Yes,No,Yes,No,Yes
+38,35-44,Netherlands,Yes,No,Often,26-100,Yes,Yes,No,Some of them,Maybe
+22,18-24,United Kingdom,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No
+24,18-24,Germany,Yes,No,Sometimes,100-500,No,Yes,Don't know,Some of them,No
+22,18-24,Netherlands,No,No,Never,1-5,No,Yes,Don't know,Yes,No
+31,30-34,United States,No,Yes,Often,26-100,Yes,Yes,Yes,Some of them,Maybe
+23,18-24,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,No,Yes
+31,30-34,United States,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,Some of them,No
+28,25-29,United States,Yes,Yes,Rarely,500-1000,No,Yes,Yes,Some of them,Maybe
+37,35-44,Canada,Yes,Yes,Sometimes,100-500,No,No,Yes,Some of them,Yes
+34,30-34,United States,Yes,Yes,Sometimes,6-25,No,Yes,No,Some of them,No
+32,30-34,Canada,No,No,Sometimes,26-100,Yes,Yes,No,No,Yes
+28,25-29,United States,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Some of them,Yes
+24,18-24,United Kingdom,No,Yes,Sometimes,100-500,No,Yes,No,Some of them,Maybe
+56,45+,United States,Yes,Yes,Rarely,6-25,No,Yes,Yes,Some of them,Yes
+31,30-34,Germany,No,No,Sometimes,6-25,Yes,Yes,No,Yes,No
+34,30-34,United States,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes,Maybe
+35,35-44,Germany,No,Yes,Rarely,100-500,No,No,Don't know,Yes,No
+28,25-29,Germany,No,No,Never,26-100,No,Yes,No,Some of them,No
+36,35-44,Poland,Yes,Yes,Often,6-25,No,Yes,No,Yes,No
+30,30-34,United Kingdom,No,Yes,Often,26-100,No,Yes,No,Yes,No
+35,35-44,United States,No,No,No condition,1-5,Yes,Yes,Yes,Yes,No
+49,45+,Japan,Yes,Yes,Sometimes,1-5,Yes,Yes,No,No,Yes
+36,35-44,Germany,No,No,No condition,26-100,No,Yes,Yes,Yes,No
+35,35-44,Germany,No,No,No condition,26-100,No,Yes,No,Some of them,Maybe
+29,25-29,Australia,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Some of them,Yes
+57,45+,United States,No,No,Never,26-100,No,Yes,Yes,No,Yes
+31,30-34,Belgium,Yes,Yes,Rarely,100-500,No,No,Yes,No,Maybe
+37,35-44,Ireland,No,No,Never,6-25,No,Yes,No,No,Yes
+25,25-29,Ireland,Yes,Yes,Sometimes,26-100,No,Yes,No,Some of them,Maybe
+30,30-34,Australia,No,No,Sometimes,26-100,No,Yes,No,Some of them,No
+26,25-29,Australia,Yes,No,Sometimes,100-500,No,No,No,Yes,No
+22,18-24,Netherlands,No,No,Often,6-25,No,Yes,No,Some of them,No
+39,35-44,United States,No,No,Rarely,More than 1000,Yes,No,Don't know,Some of them,No
+29,25-29,United Kingdom,Yes,Yes,Never,100-500,No,Yes,Don't know,No,Maybe
+54,45+,United Kingdom,Yes,Yes,Sometimes,1-5,Yes,Yes,Don't know,Yes,No
+34,30-34,Australia,Yes,No,Never,500-1000,No,No,Don't know,No,Yes
+32,30-34,United States,No,Yes,Never,500-1000,No,No,Yes,No,Maybe
+25,25-29,Nigeria,No,No,No condition,6-25,No,Yes,No,Yes,Maybe
+29,25-29,Poland,No,No,Rarely,1-5,No,Yes,No,No,No
+32,30-34,Germany,No,No,Never,1-5,Yes,Yes,No,Yes,No
+30,30-34,United Kingdom,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,Maybe
+31,30-34,Germany,No,No,No condition,6-25,No,Yes,Don't know,Yes,No
+20,18-24,Switzerland,No,No,Rarely,More than 1000,No,Yes,Yes,Some of them,No
+27,25-29,United Kingdom,No,No,Never,1-5,No,Yes,Don't know,Yes,No
+32,30-34,United States,No,No,Never,More than 1000,No,Yes,Don't know,Some of them,Maybe
+26,25-29,Ireland,No,No,Never,1-5,Yes,Yes,No,Yes,Maybe
+30,30-34,Italy,No,No,Sometimes,More than 1000,No,No,Don't know,Some of them,No
+30,30-34,Ireland,No,Yes,Sometimes,26-100,Yes,Yes,No,No,Maybe
+22,18-24,India,No,No,No condition,1-5,Yes,Yes,Don't know,Some of them,Maybe
+24,18-24,Ireland,No,No,No condition,More than 1000,No,Yes,Don't know,No,No
+26,25-29,Netherlands,No,No,Never,26-100,No,Yes,No,No,Maybe
+43,35-44,France,No,No,No condition,100-500,No,Yes,Don't know,Yes,No
+26,25-29,Russia,No,No,Never,26-100,No,Yes,No,No,No
+23,18-24,United States,Yes,No,Sometimes,6-25,No,Yes,Don't know,No,Maybe
+26,25-29,Canada,No,No,No condition,100-500,Yes,Yes,Yes,Some of them,No
+26,25-29,Israel,Yes,No,Never,100-500,No,Yes,Don't know,No,Maybe
+35,35-44,Canada,Yes,No,Sometimes,26-100,No,Yes,Don't know,Some of them,Maybe
+28,25-29,United States,No,Yes,Sometimes,26-100,Yes,No,Don't know,Yes,No
+22,18-24,India,No,No,No condition,26-100,No,Yes,No,Yes,Maybe
+29,25-29,United States,Yes,Yes,Rarely,6-25,No,Yes,Don't know,No,Yes
+29,25-29,Germany,No,No,No condition,1-5,No,Yes,No,Yes,No
+45,45+,United States,No,Yes,Often,1-5,Yes,Yes,Yes,Yes,No
+33,30-34,Bulgaria,No,Yes,Rarely,26-100,Yes,Yes,No,Some of them,Maybe
+38,35-44,United States,No,Yes,Sometimes,More than 1000,No,No,Yes,Yes,No
+19,18-24,United States,Yes,Yes,Often,26-100,No,No,Don't know,No,Maybe
+29,25-29,Canada,No,Yes,Rarely,More than 1000,Yes,No,Yes,Yes,No
+21,18-24,United Kingdom,No,No,No condition,6-25,No,Yes,No,No,Yes
+23,18-24,India,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,No,Yes
+33,30-34,United States,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,No
+49,45+,United States,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,Maybe
+28,25-29,United States,No,No,No condition,26-100,Yes,Yes,Don't know,No,Maybe
+27,25-29,United Kingdom,No,Yes,Sometimes,6-25,Yes,Yes,Don't know,Yes,No
+23,18-24,Canada,No,Yes,Sometimes,6-25,No,Yes,Yes,Some of them,Maybe
+29,25-29,Netherlands,No,No,Never,1-5,Yes,Yes,No,Yes,No
+30,30-34,Germany,No,No,No condition,26-100,No,Yes,Don't know,No,No
+28,25-29,Canada,No,No,No condition,More than 1000,No,Yes,Yes,Yes,No
+32,30-34,United Kingdom,No,No,No condition,6-25,No,Yes,No,No,Yes
+32,30-34,United Kingdom,No,Yes,Sometimes,26-100,No,No,Yes,Yes,No
+37,35-44,France,No,No,No condition,100-500,No,Yes,No,Some of them,Maybe
+39,35-44,United States,No,No,No condition,More than 1000,Yes,No,No,No,Yes
+31,30-34,France,No,No,No condition,500-1000,No,Yes,Don't know,No,Maybe
+29,25-29,United States,No,No,No condition,6-25,No,Yes,No,No,Maybe
+30,30-34,United States,No,No,No condition,100-500,No,No,Yes,Yes,Maybe
+33,30-34,United States,Yes,Yes,Rarely,1-5,Yes,Yes,No,Yes,No
+37,35-44,United States,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,Maybe
+23,18-24,United States,No,Yes,Often,26-100,No,No,Yes,Yes,No
+43,35-44,United States,Yes,Yes,Sometimes,26-100,No,No,Yes,No,Yes
+32,30-34,United Kingdom,No,Yes,Rarely,100-500,No,Yes,Don't know,Yes,Maybe
+26,25-29,United States,No,No,Never,26-100,No,Yes,Don't know,No,Yes
+32,30-34,United States,No,Yes,Sometimes,1-5,Yes,Yes,Don't know,Yes,No
+37,35-44,United States,No,No,No condition,26-100,Yes,Yes,Don't know,No,Yes
+29,25-29,United States,No,Yes,Often,26-100,No,Yes,Yes,Yes,No
+34,30-34,United Kingdom,No,No,No condition,6-25,No,Yes,No,Yes,Maybe
+27,25-29,France,No,No,No condition,6-25,No,Yes,Don't know,Yes,No
+30,30-34,United States,Yes,No,Never,100-500,No,Yes,Don't know,Yes,No
+29,25-29,United States,No,No,Never,6-25,No,Yes,Yes,Some of them,Maybe
+32,30-34,United States,Yes,Yes,Sometimes,1-5,Yes,Yes,Yes,No,Yes
+25,25-29,Germany,No,No,No condition,500-1000,No,Yes,Yes,Yes,Maybe
+37,35-44,United States,No,No,No condition,6-25,Yes,Yes,Yes,Yes,No
+29,25-29,Netherlands,Yes,No,No condition,6-25,No,Yes,No,Yes,No
+27,25-29,United States,No,No,No condition,26-100,No,Yes,Yes,Yes,No
+33,30-34,United Kingdom,No,No,No condition,6-25,No,Yes,Don't know,Some of them,Maybe
+30,30-34,Canada,Yes,Yes,Sometimes,More than 1000,No,No,Don't know,No,Yes
+29,25-29,Canada,No,No,No condition,1-5,Yes,Yes,No,Yes,Maybe
+25,25-29,United States,Yes,Yes,Never,6-25,Yes,Yes,Don't know,Yes,Yes
+33,30-34,United States,Yes,Yes,Sometimes,1-5,No,No,No,Yes,No
+31,30-34,South Africa,No,No,Never,100-500,Yes,Yes,No,Some of them,No
+21,18-24,Germany,No,No,Rarely,6-25,Yes,Yes,Don't know,Some of them,Maybe
+30,30-34,Switzerland,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,No,Yes
+29,25-29,United States,No,No,No condition,More than 1000,No,No,Don't know,Yes,No
+43,35-44,Croatia,No,Yes,Sometimes,1-5,Yes,Yes,No,No,Yes
+37,35-44,United Kingdom,No,Yes,Often,6-25,No,Yes,No,Yes,Yes
+24,18-24,France,No,No,No condition,26-100,No,Yes,No,Some of them,Maybe
+29,25-29,United States,No,No,No condition,6-25,Yes,Yes,Don't know,Yes,No
+31,30-34,United States,No,No,No condition,26-100,No,No,Yes,Yes,No
+33,30-34,United Kingdom,No,No,Never,100-500,No,No,No,Some of them,No
+43,35-44,United States,No,No,No condition,More than 1000,No,No,Yes,Yes,No
+33,30-34,United Kingdom,No,Yes,Sometimes,26-100,No,Yes,Don't know,No,Maybe
+27,25-29,United Kingdom,No,No,No condition,6-25,No,Yes,No,Some of them,Maybe
+36,35-44,United States,Yes,Yes,Sometimes,More than 1000,Yes,No,Don't know,No,Yes
+37,35-44,Australia,Yes,Yes,Sometimes,26-100,No,Yes,No,Yes,No
+32,30-34,Belgium,No,No,No condition,6-25,No,Yes,No,No,Yes
+39,35-44,United Kingdom,No,Yes,Sometimes,100-500,No,Yes,No,Some of them,No
+31,30-34,United States,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Maybe
+36,35-44,United States,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Some of them,Maybe
+30,30-34,United States,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,Some of them,No
+28,25-29,Canada,No,No,No condition,6-25,No,Yes,Yes,Yes,No
+32,30-34,Italy,No,No,No condition,6-25,No,Yes,No,No,Maybe
+35,35-44,United States,Yes,Yes,Rarely,6-25,No,Yes,Yes,Yes,No
+19,18-24,Canada,No,Yes,Sometimes,26-100,No,Yes,Don't know,Yes,No
+33,30-34,Norway,Yes,No,No condition,26-100,No,Yes,Yes,Yes,No
+42,35-44,Germany,No,No,No condition,More than 1000,Yes,Yes,Don't know,No,No
+37,35-44,United States,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,Some of them,Maybe
+40,35-44,Thailand,No,No,Never,6-25,No,Yes,No,Yes,No
+36,35-44,United States,No,No,Never,More than 1000,No,Yes,Yes,Yes,No
+29,25-29,United States,Yes,Yes,Sometimes,26-100,Yes,No,Don't know,Yes,Maybe
+38,35-44,United States,Yes,Yes,Sometimes,26-100,No,No,Yes,No,Maybe
+26,25-29,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,No,Yes
+34,30-34,Germany,No,No,Rarely,26-100,No,Yes,No,Some of them,Maybe
+21,18-24,United States,No,Yes,Often,More than 1000,No,No,No,Some of them,Yes
+31,30-34,Canada,Yes,No,Sometimes,1-5,Yes,Yes,No,No,No
+37,35-44,United States,Yes,Yes,Rarely,26-100,No,No,Yes,Some of them,Maybe
+37,35-44,Ireland,Yes,Yes,Sometimes,1-5,No,Yes,No,Yes,No
+38,35-44,Ireland,Yes,Yes,Sometimes,1-5,No,Yes,No,No,Yes
+27,25-29,United States,No,Yes,Sometimes,100-500,No,Yes,Don't know,No,Yes
+39,35-44,Netherlands,No,No,No condition,6-25,No,Yes,No,Yes,No
+33,30-34,United States,Yes,Yes,Sometimes,1-5,No,Yes,Yes,No,Maybe
+27,25-29,United Kingdom,No,No,Never,26-100,No,Yes,Don't know,No,No
+36,35-44,United States,No,Yes,Never,6-25,Yes,Yes,Yes,Some of them,Maybe
+28,25-29,United Kingdom,No,No,Never,26-100,No,Yes,Don't know,Yes,No
+39,35-44,United Kingdom,No,Yes,Sometimes,500-1000,No,No,Don't know,Some of them,Maybe
+33,30-34,United States,Yes,Yes,Sometimes,1-5,Yes,Yes,No,Yes,Maybe
+32,30-34,United Kingdom,No,No,No condition,More than 1000,No,No,Don't know,Some of them,Maybe
+28,25-29,United Kingdom,No,No,No condition,More than 1000,No,No,Don't know,Some of them,No
+37,35-44,United Kingdom,Yes,Yes,Rarely,6-25,No,Yes,No,Yes,Yes
+39,35-44,Canada,No,Yes,Sometimes,100-500,No,No,Yes,Yes,Yes
+43,35-44,United States,No,No,Sometimes,6-25,Yes,Yes,Don't know,No,Maybe
+32,30-34,United Kingdom,No,Yes,Sometimes,More than 1000,No,No,Don't know,Some of them,No
+27,25-29,United States,No,No,No condition,More than 1000,No,Yes,Don't know,Yes,Maybe
+31,30-34,United Kingdom,No,No,No condition,6-25,No,Yes,Don't know,Yes,No
+43,35-44,United Kingdom,No,Yes,Never,26-100,No,Yes,Don't know,Yes,No
+33,30-34,United States,No,Yes,Sometimes,6-25,Yes,Yes,No,Yes,No
+34,30-34,United Kingdom,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Yes,No
+33,30-34,United States,No,No,No condition,1-5,No,Yes,Don't know,Yes,No
+25,25-29,United States,No,No,No condition,6-25,No,Yes,Don't know,Yes,No
+25,25-29,United States,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Some of them,Maybe
+32,30-34,United Kingdom,Yes,No,No condition,1-5,No,Yes,No,Yes,No
+25,25-29,United States,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Some of them,Maybe
+37,35-44,Netherlands,No,No,No condition,100-500,Yes,No,Don't know,Yes,Maybe
+39,35-44,Switzerland,No,Yes,Never,More than 1000,No,Yes,Yes,Some of them,No
+29,25-29,United Kingdom,No,No,Rarely,100-500,No,Yes,Don't know,Yes,No
+33,30-34,United States,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Some of them,Maybe
+37,35-44,United States,No,Yes,Often,6-25,Yes,Yes,Don't know,Some of them,Yes
+35,35-44,United States,No,Yes,Sometimes,100-500,No,No,Yes,Some of them,Yes
+22,18-24,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Some of them,Yes
+38,35-44,United States,No,No,Never,26-100,No,Yes,Yes,Yes,Maybe
+32,30-34,United States,Yes,Yes,Often,100-500,No,Yes,Yes,Yes,Yes
+28,25-29,Brazil,No,No,No condition,26-100,No,Yes,Don't know,Yes,Maybe
+27,25-29,Switzerland,Yes,No,No condition,26-100,No,Yes,No,Yes,Maybe
+35,35-44,United States,No,Yes,Sometimes,100-500,Yes,Yes,Don't know,No,Maybe
+29,25-29,United States,No,No,Never,100-500,No,No,Yes,Yes,Yes
+23,18-24,United States,Yes,Yes,Sometimes,6-25,No,Yes,No,Yes,No
+39,35-44,United States,No,No,No condition,26-100,Yes,Yes,Yes,No,Yes
+30,30-34,United States,No,No,No condition,More than 1000,No,Yes,Yes,No,No
+32,30-34,United Kingdom,No,No,No condition,26-100,No,Yes,Don't know,Some of them,Maybe
+28,25-29,United States,No,Yes,Sometimes,26-100,No,Yes,No,Some of them,Yes
+40,35-44,United States,Yes,Yes,Sometimes,100-500,No,No,Yes,Yes,Maybe
+36,35-44,United States,Yes,No,No condition,6-25,No,Yes,Don't know,Some of them,No
+27,25-29,United States,No,No,No condition,26-100,Yes,Yes,Don't know,Yes,No
+41,35-44,United States,Yes,No,Sometimes,More than 1000,No,Yes,Yes,Some of them,Maybe
+29,25-29,United Kingdom,No,No,Never,6-25,No,Yes,Don't know,No,Maybe
+29,25-29,United Kingdom,No,Yes,Sometimes,100-500,No,Yes,No,Some of them,No
+35,35-44,United States,No,Yes,Often,1-5,No,No,No,Some of them,Yes
+28,25-29,United States,No,Yes,Never,6-25,Yes,Yes,No,Some of them,Maybe
+36,35-44,United Kingdom,No,No,Sometimes,1-5,Yes,Yes,Don't know,No,Maybe
+39,35-44,United States,No,No,Sometimes,26-100,No,Yes,Don't know,No,Yes
+39,35-44,United States,Yes,Yes,Sometimes,500-1000,No,Yes,Yes,Yes,Maybe
+44,35-44,United States,Yes,Yes,Sometimes,1-5,Yes,Yes,No,No,Yes
+26,25-29,Germany,No,Yes,Sometimes,6-25,Yes,Yes,No,Some of them,No
+35,35-44,Denmark,Yes,Yes,Often,1-5,No,Yes,No,Some of them,No
+40,35-44,United States,Yes,Yes,Sometimes,100-500,No,No,Yes,No,Yes
+35,35-44,Denmark,Yes,Yes,Often,1-5,No,Yes,No,Some of them,No
+38,35-44,United States,No,No,Never,More than 1000,Yes,Yes,No,No,Yes
+34,30-34,United States,No,No,No condition,More than 1000,Yes,Yes,Don't know,Yes,No
+43,35-44,United States,No,No,No condition,More than 1000,No,Yes,Yes,Yes,No
+48,45+,United States,Yes,No,Often,26-100,No,Yes,Don't know,Some of them,Yes
+20,18-24,United States,No,No,Never,26-100,No,Yes,Don't know,Yes,No
+40,35-44,United States,No,No,Sometimes,1-5,Yes,Yes,Don't know,No,Yes
+29,25-29,United Kingdom,No,Yes,Rarely,6-25,No,Yes,Don't know,No,Maybe
+35,35-44,United States,Yes,Yes,Sometimes,1-5,No,No,No,Yes,No
+29,25-29,United States,Yes,No,Sometimes,More than 1000,Yes,No,Yes,No,Maybe
+40,35-44,United States,No,No,Never,100-500,No,Yes,Yes,Some of them,Maybe
+29,25-29,Sweden,No,Yes,Rarely,6-25,No,Yes,No,Yes,No
+29,25-29,United States,Yes,Yes,Rarely,100-500,No,Yes,Yes,Yes,No
+34,30-34,United States,No,Yes,Sometimes,1-5,No,Yes,No,No,Yes
+44,35-44,United Kingdom,Yes,Yes,Sometimes,500-1000,No,No,Don't know,Yes,Maybe
+24,18-24,United States,Yes,Yes,Often,6-25,No,Yes,Yes,Yes,No
+47,45+,United States,No,No,No condition,100-500,Yes,Yes,Don't know,No,Yes
+43,35-44,United Kingdom,Yes,No,No condition,More than 1000,No,No,Don't know,Yes,Maybe
+36,35-44,United States,No,No,Rarely,More than 1000,No,Yes,Yes,Yes,No
+43,35-44,United States,No,Yes,Sometimes,More than 1000,No,No,Don't know,Yes,Maybe
+36,35-44,United Kingdom,No,No,Sometimes,6-25,Yes,Yes,No,Yes,No
+31,30-34,United States,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No
+35,35-44,United States,No,No,Sometimes,More than 1000,No,Yes,Don't know,No,Maybe
+33,30-34,United States,Yes,No,No condition,26-100,No,No,Yes,Some of them,No
+37,35-44,Italy,No,No,Sometimes,26-100,No,Yes,Don't know,No,Yes
+34,30-34,United States,No,Yes,Sometimes,100-500,No,Yes,Don't know,No,Maybe
+36,35-44,Netherlands,No,Yes,Sometimes,1-5,No,Yes,No,No,No
+40,35-44,United States,Yes,Yes,Sometimes,1-5,Yes,Yes,No,Yes,No
+40,35-44,United States,No,No,Rarely,More than 1000,No,Yes,Yes,Some of them,No
+42,35-44,United States,No,Yes,Sometimes,1-5,Yes,Yes,No,No,Maybe
+23,18-24,United States,Yes,No,No condition,26-100,Yes,Yes,Yes,Some of them,Maybe
+21,18-24,United Kingdom,Yes,No,Never,6-25,No,No,No,Some of them,Maybe
+26,25-29,Canada,No,No,Sometimes,6-25,Yes,Yes,No,Some of them,Yes
+31,30-34,United States,Yes,No,No condition,6-25,No,Yes,Don't know,Some of them,Maybe
+25,25-29,United States,Yes,No,No condition,More than 1000,No,Yes,Yes,Yes,No
+51,45+,United States,No,No,Never,More than 1000,Yes,Yes,Yes,Yes,No
+24,18-24,United States,No,No,No condition,6-25,No,Yes,Don't know,Yes,No
+33,30-34,United States,No,No,No condition,100-500,No,Yes,No,Yes,Maybe
+32,30-34,United Kingdom,Yes,Yes,Rarely,6-25,No,No,No,No,Yes
+32,30-34,United Kingdom,Yes,Yes,Rarely,6-25,No,No,No,No,Yes
+26,25-29,United Kingdom,No,Yes,Rarely,1-5,Yes,Yes,No,Yes,No
+23,18-24,United States,No,No,Never,100-500,No,No,Don't know,Some of them,Maybe
+33,30-34,United States,Yes,Yes,Often,6-25,Yes,Yes,No,Yes,Yes
+46,45+,United States,No,Yes,Rarely,More than 1000,No,No,Yes,No,Yes
+34,30-34,United Kingdom,No,No,No condition,6-25,Yes,Yes,No,No,Yes
+35,35-44,United States,Yes,Yes,Sometimes,6-25,No,Yes,Yes,Some of them,Maybe
+39,35-44,United States,No,No,No condition,1-5,Yes,Yes,No,Yes,Maybe
+32,30-34,Germany,No,No,Sometimes,1-5,Yes,Yes,No,Some of them,No
+43,35-44,Mexico,No,No,No condition,More than 1000,Yes,Yes,Don't know,Yes,No
+56,45+,United States,No,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes,No
+32,30-34,United Kingdom,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,Some of them,Maybe
+41,35-44,United Kingdom,No,No,No condition,26-100,No,No,Yes,Some of them,Maybe
+39,35-44,United States,No,No,No condition,More than 1000,Yes,Yes,Don't know,Yes,No
+37,35-44,United States,Yes,No,No condition,500-1000,No,No,Yes,No,Maybe
+30,30-34,United States,Yes,Yes,Sometimes,6-25,Yes,Yes,Don't know,No,Yes
+31,30-34,United States,No,No,No condition,26-100,No,Yes,Yes,Some of them,Maybe
+29,25-29,United States,No,No,No condition,More than 1000,No,No,Don't know,Some of them,Maybe
+23,18-24,United Kingdom,Yes,No,Never,More than 1000,No,No,No,No,Yes
+31,30-34,United States,No,Yes,Never,26-100,No,Yes,Yes,No,Maybe
+29,25-29,United States,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Some of them,Maybe
+30,30-34,United States,No,No,Never,26-100,Yes,Yes,Yes,Yes,No
+37,35-44,United States,No,No,Never,500-1000,Yes,Yes,Yes,Yes,Maybe
+36,35-44,United States,No,No,Never,1-5,No,Yes,Yes,Yes,No
+35,35-44,United States,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,No,Maybe
+41,35-44,United States,Yes,No,Never,500-1000,Yes,No,Don't know,No,Maybe
+31,30-34,United Kingdom,No,Yes,Rarely,6-25,No,Yes,Don't know,Yes,No
+38,35-44,United Kingdom,Yes,No,No condition,500-1000,No,No,Yes,Yes,No
+26,25-29,India,No,No,No condition,100-500,No,Yes,No,Yes,No
+39,35-44,United States,Yes,No,Sometimes,More than 1000,No,Yes,Yes,Yes,Maybe
+42,35-44,United States,Yes,No,Sometimes,6-25,Yes,No,Yes,No,Maybe
+32,30-34,United States,Yes,Yes,Rarely,1-5,Yes,Yes,No,No,Yes
+29,25-29,United States,Yes,No,No condition,100-500,No,Yes,Don't know,Yes,No
+30,30-34,United States,Yes,No,Never,100-500,No,Yes,Yes,No,Yes
+40,35-44,United States,Yes,Yes,Often,500-1000,Yes,Yes,Don't know,Some of them,Maybe
+51,45+,United States,No,No,No condition,100-500,No,No,Don't know,Yes,No
+33,30-34,United States,No,No,Never,More than 1000,No,Yes,Yes,Yes,No
+34,30-34,Germany,No,Yes,Sometimes,1-5,Yes,Yes,No,Some of them,Maybe
+50,45+,United States,No,No,Never,1-5,Yes,Yes,No,Yes,No
+24,18-24,United States,No,No,Sometimes,26-100,Yes,Yes,Don't know,Yes,No
+25,25-29,United States,Yes,Yes,Rarely,26-100,No,No,No,No,Yes
+43,35-44,United Kingdom,Yes,Yes,Rarely,26-100,No,Yes,No,No,Yes
+25,25-29,United States,No,Yes,Often,1-5,No,Yes,Yes,Some of them,Maybe
+24,18-24,United Kingdom,No,No,No condition,1-5,Yes,Yes,No,No,No
+51,45+,United States,No,No,Never,1-5,No,Yes,No,Some of them,No
+49,45+,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,No,Yes
+30,30-34,United States,No,No,No condition,More than 1000,Yes,Yes,Yes,No,Yes
+25,25-29,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,No,Yes
+36,35-44,United States,No,Yes,Rarely,500-1000,Yes,Yes,Yes,No,Maybe
+48,45+,United States,No,Yes,Never,More than 1000,No,Yes,Yes,Yes,Maybe
+48,45+,Australia,No,Yes,Sometimes,6-25,No,Yes,No,No,Yes
+53,45+,United States,No,Yes,Rarely,6-25,Yes,Yes,Yes,No,Maybe
+24,18-24,United Kingdom,Yes,Yes,Often,6-25,Yes,Yes,No,Yes,No
+33,30-34,United States,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Yes,No
+25,25-29,Canada,Yes,Yes,Sometimes,6-25,No,Yes,Yes,Yes,No
+30,30-34,United Kingdom,No,Yes,Sometimes,26-100,No,Yes,No,No,Yes
+30,30-34,United States,No,No,Never,1-5,Yes,Yes,No,Some of them,Maybe
+34,30-34,United Kingdom,No,Yes,Sometimes,1-5,Yes,Yes,No,Some of them,No
+31,30-34,United States,No,No,No condition,More than 1000,Yes,Yes,Yes,Yes,No
+22,18-24,United States,Yes,Yes,Often,More than 1000,No,Yes,Don't know,No,Yes
+28,25-29,United States,Yes,No,Sometimes,6-25,No,Yes,Don't know,Yes,No
+35,35-44,United States,Yes,Yes,Rarely,26-100,No,No,Yes,Some of them,Maybe
+28,25-29,United States,Yes,Yes,Sometimes,26-100,No,No,Yes,Some of them,Maybe
+42,35-44,New Zealand,No,Yes,Sometimes,More than 1000,No,No,No,Some of them,Yes
+33,30-34,United States,Yes,No,No condition,500-1000,No,Yes,Yes,Yes,No
+29,25-29,United States,No,No,Sometimes,More than 1000,No,Yes,Yes,No,Yes
+43,35-44,United States,Yes,No,Sometimes,500-1000,No,No,Yes,Some of them,Maybe
+29,25-29,United States,No,No,No condition,26-100,No,Yes,Yes,Some of them,No
+25,25-29,United States,No,No,No condition,100-500,Yes,Yes,Yes,Yes,No
+31,30-34,United States,Yes,No,Never,100-500,No,Yes,Don't know,Yes,No
+35,35-44,United States,Yes,Yes,Sometimes,6-25,No,No,Yes,Yes,Maybe
+34,30-34,United States,No,No,Often,1-5,No,Yes,Don't know,Yes,No
+43,35-44,United States,No,Yes,Sometimes,100-500,Yes,Yes,Yes,No,Yes
+38,35-44,United States,Yes,Yes,Sometimes,100-500,No,Yes,No,Some of them,Yes
+26,25-29,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Some of them,Maybe
+38,35-44,United Kingdom,Yes,Yes,Rarely,1-5,Yes,No,No,No,Maybe
+42,35-44,United States,No,Yes,Often,6-25,No,Yes,Don't know,No,Yes
+33,30-34,Netherlands,Yes,Yes,No condition,6-25,No,Yes,Don't know,Yes,No
+32,30-34,United States,No,Yes,Rarely,More than 1000,No,Yes,Yes,Some of them,Maybe
+44,35-44,United States,Yes,Yes,Sometimes,6-25,Yes,Yes,Yes,Yes,Maybe
+28,25-29,United States,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,No,Maybe
+40,35-44,United States,Yes,Yes,Sometimes,More than 1000,Yes,Yes,Yes,Some of them,Yes
+31,30-34,United States,Yes,Yes,Sometimes,500-1000,No,Yes,Yes,Yes,Maybe
+32,30-34,United States,Yes,No,Sometimes,100-500,No,Yes,Yes,No,Yes
+28,25-29,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,No,Maybe
+39,35-44,United States,Yes,Yes,Often,26-100,No,Yes,Yes,No,Yes
+45,45+,United States,No,No,No condition,More than 1000,No,No,Yes,Some of them,No
+43,35-44,United States,No,Yes,Rarely,More than 1000,No,Yes,Yes,Yes,No
+35,35-44,United States,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Some of them,Maybe
+40,35-44,United States,Yes,Yes,Sometimes,6-25,No,Yes,Yes,Some of them,Maybe
+34,30-34,Netherlands,No,Yes,Rarely,26-100,No,Yes,No,Yes,No
+24,18-24,United Kingdom,Yes,Yes,Often,26-100,No,No,Don't know,Yes,Yes
+61,45+,South Africa,No,Yes,Sometimes,1-5,Yes,Yes,No,Yes,Yes
+36,35-44,United States,Yes,Yes,Rarely,6-25,No,Yes,Don't know,No,Yes
+38,35-44,United States,No,No,No condition,6-25,No,Yes,No,Yes,Maybe
+33,30-34,Germany,Yes,Yes,Often,26-100,No,Yes,Don't know,Yes,No
+30,30-34,United States,Yes,No,Never,More than 1000,No,No,Don't know,No,Yes
+34,30-34,Netherlands,Yes,Yes,Rarely,1-5,Yes,Yes,Yes,Some of them,No
+26,25-29,United States,No,Yes,Rarely,More than 1000,No,Yes,Yes,Some of them,No
+33,30-34,United Kingdom,No,No,No condition,More than 1000,No,Yes,Don't know,Yes,No
+32,30-34,United Kingdom,No,No,No condition,6-25,No,Yes,Don't know,Yes,No
+25,25-29,Germany,No,No,Sometimes,6-25,Yes,Yes,No,Yes,No
+35,35-44,Germany,No,Yes,Sometimes,26-100,Yes,No,Don't know,No,Yes
+24,18-24,United Kingdom,Yes,No,Often,1-5,Yes,Yes,Don't know,Some of them,Maybe
+55,45+,United Kingdom,No,Yes,Often,More than 1000,No,No,Yes,Some of them,Yes
+33,30-34,United Kingdom,Yes,Yes,Sometimes,1-5,Yes,Yes,No,Some of them,Yes
+26,25-29,United Kingdom,Yes,Yes,Sometimes,1-5,Yes,Yes,No,Yes,Maybe
+25,25-29,United Kingdom,No,No,Never,6-25,Yes,Yes,Don't know,Yes,No
+45,45+,United Kingdom,Yes,No,Rarely,100-500,No,No,Don't know,No,Maybe
+33,30-34,United Kingdom,No,Yes,Sometimes,1-5,Yes,Yes,No,Yes,No
+43,35-44,United States,No,No,Sometimes,More than 1000,Yes,Yes,No,No,Yes
+30,30-34,United Kingdom,No,Yes,Sometimes,6-25,No,Yes,No,No,Yes
+40,35-44,United States,Yes,Yes,Rarely,6-25,No,Yes,Don't know,Yes,No
+49,45+,United States,Yes,No,Never,More than 1000,No,Yes,Yes,Yes,No
+29,25-29,Germany,No,No,No condition,6-25,No,Yes,Don't know,Yes,No
+26,25-29,Germany,No,No,No condition,500-1000,No,Yes,Don't know,Some of them,No
+38,35-44,United States,No,No,Never,More than 1000,No,Yes,Yes,Some of them,Maybe
+27,25-29,France,Yes,No,No condition,500-1000,No,No,Yes,Some of them,Maybe
+26,25-29,Belgium,No,No,Never,6-25,No,Yes,Yes,No,Maybe
+28,25-29,United Kingdom,Yes,Yes,Often,26-100,No,Yes,No,Yes,Maybe
+40,35-44,United States,Yes,Yes,Sometimes,1-5,Yes,Yes,No,Yes,Maybe
+37,35-44,Canada,Yes,Yes,Rarely,1-5,Yes,Yes,No,Some of them,Yes
+34,30-34,United Kingdom,Yes,Yes,Often,26-100,Yes,No,Yes,No,Yes
+28,25-29,United States,Yes,Yes,Often,100-500,No,Yes,Don't know,Some of them,Maybe
+27,25-29,Canada,No,No,Never,26-100,No,Yes,Yes,Yes,No
+29,25-29,United Kingdom,No,Yes,Sometimes,6-25,Yes,Yes,No,Yes,No
+39,35-44,United Kingdom,Yes,No,Rarely,500-1000,Yes,Yes,Don't know,No,Yes
+28,25-29,United Kingdom,No,No,Often,6-25,No,Yes,No,No,Yes
+23,18-24,United States,Yes,No,Sometimes,26-100,No,Yes,Yes,No,No
+38,35-44,United Kingdom,No,No,No condition,1-5,Yes,Yes,No,Yes,No
+19,18-24,United Kingdom,No,No,No condition,6-25,No,Yes,Yes,Yes,No
+30,30-34,United States,Yes,Yes,Sometimes,26-100,No,Yes,Yes,No,No
+28,25-29,United Kingdom,No,No,No condition,1-5,Yes,Yes,No,No,Maybe
+20,18-24,India,No,Yes,Sometimes,26-100,No,Yes,Don't know,No,Yes
+35,35-44,United Kingdom,No,No,Sometimes,1-5,No,Yes,Don't know,Yes,No
+39,35-44,United States,No,Yes,Rarely,100-500,Yes,Yes,Yes,Yes,Maybe
+31,30-34,United States,Yes,No,Never,More than 1000,No,No,Yes,No,Yes
+32,30-34,United Kingdom,No,No,Rarely,500-1000,No,Yes,No,No,Yes
+27,25-29,Sweden,No,No,No condition,6-25,No,Yes,No,No,No
+25,25-29,United States,Yes,Yes,Often,6-25,Yes,Yes,Yes,Yes,No
+42,35-44,United States,Yes,Yes,Sometimes,6-25,Yes,Yes,Don't know,Yes,Maybe
+34,30-34,United States,Yes,Yes,Often,100-500,No,Yes,Yes,Yes,No
+26,25-29,United States,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,No,Maybe
+35,35-44,United Kingdom,Yes,Yes,Sometimes,1-5,No,Yes,No,Some of them,Yes
+34,30-34,United Kingdom,No,No,Never,500-1000,No,Yes,Don't know,Yes,Maybe
+38,35-44,United States,Yes,Yes,Sometimes,100-500,Yes,No,Yes,Yes,No
+34,30-34,United States,No,No,Sometimes,100-500,No,Yes,Don't know,No,Yes
+39,35-44,United States,Yes,Yes,Sometimes,6-25,Yes,Yes,No,Yes,No
+44,35-44,United States,No,No,No condition,100-500,No,Yes,Don't know,No,Yes
+40,35-44,United States,No,No,No condition,More than 1000,No,No,Yes,Yes,Maybe
+33,30-34,United States,No,No,Never,1-5,Yes,Yes,No,Some of them,Maybe
+24,18-24,United States,Yes,No,Sometimes,More than 1000,No,No,Yes,Some of them,Yes
+38,35-44,United States,Yes,No,Sometimes,26-100,Yes,Yes,Don't know,Yes,No
+31,30-34,United States,No,No,Sometimes,More than 1000,No,Yes,Yes,Some of them,Yes
+23,18-24,Israel,No,No,No condition,100-500,No,Yes,Don't know,Yes,Maybe
+26,25-29,United States,No,No,No condition,6-25,No,Yes,Don't know,Yes,No
+46,45+,United States,No,Yes,Often,More than 1000,No,No,Yes,Some of them,Yes
+30,30-34,United States,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,No,Maybe
+25,25-29,United States,No,No,Rarely,26-100,Yes,Yes,Don't know,Some of them,Yes
+19,18-24,Canada,No,No,Never,26-100,Yes,Yes,Don't know,Some of them,No
+30,30-34,United States,Yes,Yes,Sometimes,500-1000,No,No,Yes,Some of them,Maybe
+32,30-34,United States,No,No,Never,6-25,No,Yes,Yes,Yes,No
+32,30-34,United Kingdom,No,No,No condition,6-25,No,Yes,No,No,Maybe
+37,35-44,United States,Yes,No,Sometimes,26-100,Yes,Yes,Don't know,Some of them,Maybe
+42,35-44,United States,Yes,Yes,Sometimes,6-25,Yes,Yes,Don't know,Some of them,Maybe
+25,25-29,United States,No,No,Never,More than 1000,No,Yes,Yes,Yes,Maybe
+19,18-24,United States,No,No,Sometimes,1-5,No,Yes,Don't know,Yes,No
+40,35-44,United States,Yes,No,Never,100-500,Yes,Yes,Yes,No,Yes
+34,30-34,United States,No,No,No condition,More than 1000,No,No,Yes,Yes,Maybe
+26,25-29,United States,Yes,No,No condition,6-25,No,Yes,Don't know,Yes,No
+31,30-34,United States,Yes,Yes,Rarely,6-25,No,Yes,Don't know,Yes,No
+40,35-44,United States,Yes,No,Sometimes,More than 1000,Yes,No,Yes,Some of them,Yes
+31,30-34,United States,Yes,Yes,Often,26-100,No,Yes,No,No,Yes
+36,35-44,United States,No,No,Never,100-500,No,No,Don't know,No,Yes
+35,35-44,Canada,Yes,No,Sometimes,6-25,Yes,Yes,No,Some of them,Maybe
+26,25-29,Australia,Yes,Yes,Sometimes,26-100,Yes,Yes,No,Yes,No
+44,35-44,United States,No,No,No condition,More than 1000,Yes,No,Don't know,No,Yes
+34,30-34,United States,No,No,Sometimes,1-5,No,Yes,No,Yes,No
+35,35-44,United States,No,No,No condition,6-25,Yes,Yes,No,No,No
+28,25-29,United States,Yes,Yes,Sometimes,26-100,Yes,Yes,Don't know,Some of them,Yes
+33,30-34,United States,No,No,No condition,6-25,Yes,Yes,Yes,Yes,No
+40,35-44,United States,Yes,Yes,Sometimes,More than 1000,Yes,Yes,Yes,No,Yes
+26,25-29,United States,No,Yes,Sometimes,6-25,No,Yes,Yes,No,Maybe
+29,25-29,United Kingdom,No,Yes,Often,More than 1000,No,No,Yes,No,Maybe
+26,25-29,Canada,Yes,Yes,Sometimes,100-500,No,Yes,Yes,No,Maybe
+33,30-34,Italy,Yes,Yes,Sometimes,6-25,No,Yes,No,Yes,No
+28,25-29,Brazil,Yes,No,Sometimes,100-500,No,Yes,No,Some of them,No
+41,35-44,United States,No,Yes,Often,1-5,Yes,No,No,Some of them,No
+39,35-44,United Kingdom,Yes,Yes,Sometimes,1-5,Yes,Yes,No,Yes,No
+26,25-29,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes,No
+23,18-24,United States,Yes,No,Sometimes,26-100,No,No,No,Some of them,Yes
+35,35-44,Switzerland,Yes,Yes,Often,More than 1000,No,Yes,Don't know,Some of them,No
+36,35-44,United States,No,No,Never,1-5,Yes,Yes,Don't know,Some of them,No
+42,35-44,United States,No,No,Rarely,More than 1000,No,No,Don't know,No,Maybe
+39,35-44,United States,Yes,Yes,Sometimes,500-1000,No,Yes,Yes,Yes,No
+27,25-29,United States,No,No,Never,6-25,No,Yes,Don't know,Yes,Maybe
+33,30-34,United States,No,No,Never,6-25,Yes,Yes,Don't know,Yes,Maybe
+31,30-34,Canada,Yes,Yes,Often,More than 1000,No,Yes,Yes,No,Maybe
+28,25-29,United States,No,Yes,Rarely,6-25,No,Yes,Yes,Some of them,No
+29,25-29,United States,No,Yes,Often,More than 1000,Yes,No,Yes,Yes,No
+27,25-29,United States,No,Yes,Sometimes,100-500,No,Yes,Don't know,No,Maybe
+44,35-44,United States,No,No,Never,1-5,Yes,Yes,Don't know,No,No
+25,25-29,United States,No,Yes,Often,6-25,Yes,Yes,Don't know,No,Maybe
+24,18-24,Germany,Yes,Yes,Sometimes,6-25,No,Yes,No,Yes,Maybe
+25,25-29,South Africa,Yes,Yes,Often,6-25,No,No,Don't know,Yes,No
+34,30-34,United States,No,No,Never,6-25,Yes,Yes,Yes,Some of them,Maybe
+26,25-29,United States,No,No,Never,More than 1000,No,No,Yes,Yes,Maybe
+48,45+,United States,No,No,Never,26-100,No,No,Yes,Yes,Maybe
+34,30-34,Greece,No,No,No condition,26-100,Yes,Yes,No,No,Yes
+39,35-44,United States,No,Yes,Sometimes,6-25,Yes,Yes,No,Some of them,Maybe
+43,35-44,United States,No,No,Sometimes,More than 1000,Yes,Yes,Yes,No,Maybe
+41,35-44,United States,No,No,Rarely,More than 1000,No,Yes,Yes,No,Maybe
+25,25-29,United States,No,No,Never,More than 1000,No,No,Don't know,Yes,No
+31,30-34,United States,No,Yes,Sometimes,100-500,No,Yes,Yes,No,Maybe
+40,35-44,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,No,Yes
+43,35-44,United States,Yes,Yes,Sometimes,1-5,Yes,Yes,Yes,Some of them,Maybe
+27,25-29,United States,Yes,Yes,Often,More than 1000,No,Yes,Yes,Some of them,Maybe
+37,35-44,United States,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,No,Yes
+32,30-34,Netherlands,No,Yes,Sometimes,1-5,No,Yes,No,Yes,Maybe
+25,25-29,United States,Yes,Yes,Often,1-5,No,Yes,No,Yes,Maybe
+29,25-29,Netherlands,Yes,Yes,Often,1-5,No,Yes,Don't know,Yes,No
+30,30-34,United States,Yes,Yes,Often,More than 1000,No,No,Yes,No,Yes
+34,30-34,Canada,Yes,Yes,Often,26-100,No,No,Don't know,Some of them,No
+32,30-34,United Kingdom,Yes,Yes,Sometimes,1-5,No,No,Yes,Some of them,Maybe
+37,35-44,Germany,No,No,No condition,6-25,No,Yes,Don't know,Yes,No
+41,35-44,Germany,No,Yes,Sometimes,More than 1000,No,Yes,Don't know,Yes,No
+38,35-44,United States,Yes,No,Never,More than 1000,No,No,Yes,No,Yes
+32,30-34,United States,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No
+28,25-29,United States,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Some of them,Maybe
+43,35-44,United States,Yes,No,Never,100-500,No,No,Yes,Some of them,Maybe
+32,30-34,United States,Yes,Yes,Often,100-500,No,Yes,No,Yes,Yes
+25,25-29,United States,No,Yes,Sometimes,More than 1000,No,Yes,Yes,No,Yes
+37,35-44,United States,No,Yes,Sometimes,100-500,No,Yes,Yes,Yes,No
+36,35-44,United States,No,Yes,Sometimes,1-5,No,No,No,No,No
+24,18-24,United States,Yes,Yes,Rarely,6-25,Yes,Yes,Don't know,Yes,No
+40,35-44,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Some of them,Maybe
+29,25-29,United States,No,No,No condition,More than 1000,No,No,Don't know,Yes,No
+43,35-44,United States,No,No,Never,500-1000,No,Yes,Don't know,Some of them,No
+29,25-29,United States,No,No,No condition,6-25,Yes,Yes,Yes,Yes,Maybe
+26,25-29,United States,Yes,No,Sometimes,100-500,No,Yes,Don't know,No,Maybe
+33,30-34,Canada,Yes,Yes,Often,1-5,Yes,Yes,No,No,Yes
+35,35-44,United States,Yes,No,Sometimes,6-25,Yes,Yes,Don't know,Some of them,No
+45,45+,United States,No,No,Never,6-25,Yes,Yes,Yes,No,Yes
+25,25-29,United States,No,Yes,Rarely,6-25,Yes,Yes,No,Some of them,Maybe
+50,45+,France,No,Yes,Sometimes,26-100,Yes,Yes,No,Yes,Maybe
+26,25-29,Australia,Yes,Yes,Rarely,26-100,No,Yes,No,Yes,No
+33,30-34,United States,No,Yes,Often,More than 1000,No,Yes,Yes,No,Yes
+30,30-34,India,No,No,Often,6-25,No,Yes,No,Some of them,Maybe
+33,30-34,Croatia,Yes,Yes,Sometimes,6-25,Yes,Yes,Yes,Yes,No
+29,25-29,France,No,Yes,Often,6-25,No,Yes,Yes,Some of them,Maybe
+37,35-44,Germany,No,No,No condition,6-25,Yes,Yes,No,No,Maybe
+25,25-29,United States,Yes,Yes,Sometimes,1-5,Yes,Yes,Don't know,Yes,No
+40,35-44,United States,No,No,No condition,More than 1000,No,No,Yes,Some of them,Maybe
+24,18-24,Canada,No,No,Sometimes,26-100,No,Yes,Yes,No,Maybe
+40,35-44,United Kingdom,No,Yes,Never,100-500,No,Yes,Don't know,Some of them,Maybe
+46,45+,United States,Yes,Yes,Sometimes,6-25,No,Yes,Don't know,Some of them,Yes
+38,35-44,United States,Yes,Yes,Rarely,More than 1000,No,No,Yes,Yes,Yes
+34,30-34,United States,No,No,Never,1-5,Yes,Yes,No,No,Yes
+32,30-34,United Kingdom,No,Yes,Rarely,1-5,No,Yes,No,Yes,No
+44,35-44,United Kingdom,No,Yes,Sometimes,More than 1000,No,No,No,Some of them,Maybe
+33,30-34,United Kingdom,No,Yes,Never,100-500,No,Yes,Don't know,Some of them,Maybe
+45,45+,United States,No,Yes,Rarely,26-100,No,No,Don't know,Some of them,No
+35,35-44,United States,No,No,No condition,6-25,No,Yes,Don't know,No,No
+26,25-29,Germany,Yes,Yes,Often,1-5,No,Yes,No,Yes,Maybe
+20,18-24,United States,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,Some of them,No
+37,35-44,Netherlands,Yes,No,Sometimes,6-25,No,Yes,No,Yes,Maybe
+28,25-29,United States,No,No,No condition,More than 1000,No,No,Yes,No,Maybe
+42,35-44,United States,Yes,Yes,Sometimes,26-100,No,No,Yes,Some of them,Yes
+32,30-34,United Kingdom,No,No,No condition,26-100,No,Yes,No,No,Maybe
+36,35-44,United States,Yes,Yes,Rarely,More than 1000,Yes,Yes,Yes,No,Maybe
+27,25-29,New Zealand,No,No,Rarely,26-100,No,Yes,No,No,Yes
+27,25-29,New Zealand,No,No,Rarely,26-100,No,Yes,No,No,Yes
+27,25-29,United Kingdom,No,Yes,Sometimes,More than 1000,No,No,No,Yes,Maybe
+25,25-29,United Kingdom,Yes,Yes,Sometimes,26-100,Yes,Yes,No,Yes,No
+41,35-44,United Kingdom,Yes,No,No condition,6-25,No,Yes,No,Some of them,Maybe
+23,18-24,Germany,Yes,Yes,Sometimes,6-25,No,Yes,Don't know,No,Maybe
+21,18-24,United Kingdom,No,Yes,Sometimes,More than 1000,No,No,Don't know,No,Maybe
+26,25-29,Moldova,No,Yes,Often,26-100,No,Yes,No,Yes,No
+29,25-29,Sweden,No,No,Rarely,More than 1000,No,Yes,Don't know,No,Maybe
+28,25-29,Belgium,No,No,Sometimes,More than 1000,No,No,No,No,Yes
+27,25-29,United Kingdom,Yes,No,No condition,More than 1000,No,No,No,No,Maybe
+23,18-24,Israel,No,No,Never,More than 1000,No,No,No,Yes,No
+26,25-29,United States,Yes,No,Sometimes,26-100,Yes,Yes,Don't know,No,Maybe
+38,35-44,United Kingdom,Yes,Yes,Sometimes,1-5,No,Yes,No,Yes,No
+39,35-44,United Kingdom,Yes,Yes,Sometimes,More than 1000,No,No,No,Yes,Maybe
+35,35-44,United States,Yes,Yes,Often,More than 1000,No,No,Yes,Some of them,Yes
+32,30-34,United States,No,No,Rarely,6-25,No,Yes,Yes,Some of them,Maybe
+32,30-34,United States,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Some of them,Maybe
+26,25-29,United Kingdom,No,No,Never,6-25,No,Yes,No,No,Yes
+38,35-44,Canada,Yes,Yes,Rarely,100-500,No,Yes,Don't know,Yes,No
+34,30-34,United Kingdom,Yes,No,Rarely,26-100,No,No,Yes,Yes,No
+39,35-44,United States,Yes,Yes,Often,26-100,No,No,Don't know,Some of them,Yes
+32,30-34,Canada,No,No,Never,6-25,Yes,Yes,Don't know,Yes,No
+37,35-44,Netherlands,No,No,Never,1-5,Yes,Yes,Don't know,Some of them,Yes
+31,30-34,United Kingdom,Yes,Yes,Never,6-25,No,Yes,Don't know,Some of them,No
+30,30-34,United States,Yes,Yes,Rarely,6-25,No,Yes,No,No,No
+51,45+,Singapore,No,No,Never,More than 1000,Yes,Yes,Don't know,No,Yes
+29,25-29,United States,No,Yes,Sometimes,26-100,No,Yes,Yes,Some of them,Yes
+31,30-34,United Kingdom,No,No,Never,100-500,No,Yes,Yes,No,Maybe
+31,30-34,India,No,No,No condition,26-100,No,Yes,Don't know,No,Yes
+26,25-29,United States,Yes,Yes,Sometimes,6-25,Yes,Yes,Don't know,Some of them,Maybe
+46,45+,United States,No,Yes,Often,100-500,Yes,No,Yes,Some of them,Maybe
+32,30-34,United States,Yes,No,Sometimes,More than 1000,No,Yes,Yes,Yes,Maybe
+29,25-29,United States,Yes,Yes,Sometimes,26-100,No,No,Yes,No,Maybe
+34,30-34,Poland,No,No,Never,More than 1000,Yes,Yes,Don't know,Some of them,Maybe
+26,25-29,Colombia,No,No,Often,6-25,No,Yes,No,No,Yes
+32,30-34,United States,No,Yes,Sometimes,More than 1000,No,Yes,Yes,No,Maybe
+29,25-29,United States,No,No,No condition,More than 1000,No,Yes,Don't know,Yes,Maybe
+30,30-34,United States,No,No,No condition,More than 1000,No,No,Yes,No,Yes
+40,35-44,United States,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No
+23,18-24,United Kingdom,No,Yes,Sometimes,1-5,No,Yes,No,Yes,Maybe
+20,18-24,Georgia,No,No,Rarely,26-100,No,No,No,No,Yes
+38,35-44,United States,Yes,No,No condition,6-25,No,Yes,Don't know,Yes,No
+26,25-29,United States,Yes,Yes,Rarely,100-500,No,Yes,Yes,No,Maybe
+29,25-29,United States,No,No,Never,26-100,No,Yes,No,Yes,No
+40,35-44,China,No,No,Sometimes,1-5,Yes,Yes,No,Some of them,No
+25,25-29,Bulgaria,No,Yes,Sometimes,26-100,Yes,Yes,No,Some of them,Maybe
+32,30-34,United States,No,Yes,Sometimes,26-100,No,Yes,Yes,No,Maybe
+38,35-44,United States,Yes,Yes,Sometimes,More than 1000,No,No,Yes,No,Maybe
+72,45+,United States,Yes,Yes,Never,500-1000,Yes,No,Yes,Yes,Maybe
+35,35-44,United States,Yes,Yes,Sometimes,1-5,Yes,Yes,No,Some of them,Maybe
+28,25-29,United States,No,Yes,Often,6-25,No,Yes,No,Some of them,Yes
+27,25-29,United States,No,No,Never,100-500,No,No,Don't know,Yes,No
+56,45+,United States,No,No,Rarely,1-5,Yes,Yes,Don't know,No,Maybe
+38,35-44,United States,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Some of them,Maybe
+31,30-34,Belgium,No,No,No condition,26-100,No,Yes,Don't know,Some of them,Maybe
+40,35-44,United States,Yes,Yes,Sometimes,6-25,No,Yes,Yes,No,Maybe
+44,35-44,United States,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Some of them,Maybe
+34,30-34,Canada,Yes,No,Sometimes,More than 1000,No,Yes,Yes,No,Maybe
+37,35-44,United Kingdom,No,No,Never,26-100,Yes,Yes,Don't know,Yes,No
+38,35-44,Italy,No,No,Never,26-100,No,Yes,Don't know,Yes,No
+27,25-29,Germany,No,No,No condition,26-100,No,Yes,Don't know,Yes,No
+34,30-34,Ireland,No,Yes,Sometimes,500-1000,No,No,Yes,Some of them,Yes
+35,35-44,Ireland,No,No,Rarely,1-5,No,Yes,Don't know,No,Maybe
+34,30-34,Ireland,No,Yes,Often,6-25,No,Yes,No,Yes,Yes
+32,30-34,United States,No,Yes,Often,26-100,Yes,Yes,Yes,No,Yes
+25,25-29,Ireland,No,No,No condition,100-500,No,Yes,Don't know,Yes,Maybe
+28,25-29,Australia,No,Yes,Often,100-500,Yes,Yes,No,No,Yes
+28,25-29,United States,No,Yes,Rarely,6-25,No,Yes,Yes,No,Yes
+31,30-34,Brazil,No,Yes,No condition,1-5,No,Yes,No,Yes,No
+24,18-24,United Kingdom,No,No,No condition,100-500,No,Yes,Don't know,Yes,Maybe
+34,30-34,Ireland,Yes,Yes,Never,1-5,Yes,Yes,No,Yes,Maybe
+32,30-34,Ireland,No,Yes,Sometimes,6-25,No,Yes,No,Yes,No
+34,30-34,United Kingdom,Yes,No,Often,26-100,Yes,No,Don't know,Yes,Maybe
+23,18-24,United States,No,Yes,Sometimes,1-5,No,Yes,No,Yes,Maybe
+33,30-34,Czech Republic,Yes,No,Often,100-500,No,Yes,No,Yes,No
+29,25-29,Singapore,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,No,Maybe
+24,18-24,Ireland,Yes,No,No condition,1-5,No,Yes,No,No,Maybe
+45,45+,Ireland,No,No,Never,More than 1000,Yes,Yes,Don't know,Some of them,Yes
+34,30-34,United Kingdom,No,Yes,Sometimes,More than 1000,No,No,No,Yes,Maybe
+31,30-34,Philippines,No,No,Sometimes,More than 1000,No,Yes,Don't know,No,Yes
+33,30-34,United States,No,Yes,Often,26-100,Yes,Yes,Yes,No,Maybe
+28,25-29,Netherlands,No,No,No condition,6-25,No,Yes,No,Some of them,Maybe
+27,25-29,United Kingdom,No,No,Rarely,More than 1000,Yes,No,Don't know,Yes,No
+42,35-44,Ireland,No,No,Never,26-100,No,Yes,No,Some of them,Yes
+28,25-29,Netherlands,No,No,No condition,6-25,No,Yes,No,Some of them,Maybe
+38,35-44,United States,No,Yes,Sometimes,More than 1000,Yes,Yes,Yes,Yes,No
+46,45+,United States,Yes,Yes,Often,26-100,No,Yes,Don't know,No,Maybe
+46,45+,United States,Yes,Yes,Sometimes,100-500,Yes,Yes,Don't know,Yes,No
+41,35-44,Netherlands,No,Yes,Rarely,1-5,Yes,Yes,Don't know,Yes,No
+23,18-24,United Kingdom,No,No,Never,26-100,No,Yes,Don't know,Some of them,Maybe
+24,18-24,Ireland,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,No,Maybe
+23,18-24,Ireland,No,Yes,Rarely,26-100,No,Yes,No,Some of them,No
+39,35-44,Netherlands,No,No,No condition,More than 1000,No,No,Yes,Some of them,Maybe
+32,30-34,Ireland,Yes,No,Never,More than 1000,No,Yes,Yes,Some of them,Maybe
+25,25-29,United States,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Some of them,Yes
+39,35-44,Greece,No,No,No condition,6-25,Yes,Yes,No,No,Yes
+23,18-24,United Kingdom,Yes,Yes,Sometimes,6-25,No,Yes,No,Yes,No
+24,18-24,United Kingdom,No,Yes,Sometimes,6-25,Yes,Yes,No,Some of them,Maybe
+25,25-29,United Kingdom,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes,No
+23,18-24,United Kingdom,No,Yes,Rarely,6-25,No,Yes,No,Yes,No
+24,18-24,United Kingdom,No,Yes,Sometimes,6-25,No,No,Don't know,No,Yes
+23,18-24,Canada,No,Yes,Often,26-100,No,Yes,Yes,Some of them,Maybe
+60,45+,United States,No,Yes,Often,More than 1000,Yes,Yes,Don't know,No,Maybe
+28,25-29,Ireland,No,No,Sometimes,26-100,No,Yes,No,No,Yes
+28,25-29,United States,Yes,Yes,Often,More than 1000,No,No,Yes,Yes,Yes
+30,30-34,Netherlands,No,No,Sometimes,500-1000,No,Yes,Don't know,Yes,Maybe
+31,30-34,Germany,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,No,No
+31,30-34,Poland,No,Yes,Often,6-25,Yes,Yes,No,No,Maybe
+28,25-29,Ireland,No,Yes,Rarely,26-100,No,Yes,Don't know,No,Maybe
+43,35-44,United States,Yes,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes,No
+32,30-34,United Kingdom,No,No,No condition,More than 1000,No,No,No,Yes,Maybe
+22,18-24,Australia,Yes,Yes,Often,100-500,No,No,Yes,Yes,Maybe
+32,30-34,United States,No,No,Never,100-500,No,Yes,Yes,Some of them,No
+36,35-44,Finland,No,Yes,Often,6-25,No,Yes,No,No,Yes
+41,35-44,United States,Yes,Yes,Sometimes,26-100,No,Yes,Yes,No,Yes
+30,30-34,United States,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes,No
+30,30-34,United States,Yes,Yes,Often,26-100,No,Yes,Yes,Yes,No
+36,35-44,South Africa,Yes,Yes,Often,100-500,No,No,No,Yes,No
+29,25-29,United States,Yes,Yes,Sometimes,100-500,Yes,Yes,Yes,No,Yes
+36,35-44,United States,Yes,No,Rarely,More than 1000,No,No,Don't know,Some of them,Maybe
+26,25-29,United Kingdom,No,Yes,No condition,26-100,No,Yes,No,Some of them,No
+32,30-34,United States,Yes,Yes,Often,26-100,Yes,Yes,Yes,Yes,No
+34,30-34,United States,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,No,Yes
+46,45+,United States,No,No,No condition,100-500,Yes,Yes,No,No,Yes
+25,25-29,United States,Yes,Yes,Sometimes,26-100,No,No,Yes,No,Maybe
