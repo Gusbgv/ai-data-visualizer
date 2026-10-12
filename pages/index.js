@@ -217,7 +217,7 @@ export default function Home() {
 
         <footer className={styles.footer}>
           <span>Datasets: OSMI (Kaggle) · NASA Exoplanet Archive · Gapminder</span>
-          <span>Made by Gustavo Garcia-Vargas ✦</span>
+          <span>© {new Date().getFullYear()} Gustavo Garcia-Vargas ✦</span>
         </footer>
       </main>
 
